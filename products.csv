@@ -1,0 +1,2001 @@
+product_id,product_name,category,price
+1,Dumbbells 0001,Sports,46599.65
+2,Bluetooth Speaker 0002,Electronics,24673.08
+3,SQL Handbook 0003,Books,68469.59
+4,Dumbbells 0004,Sports,61380.3
+5,T-Shirt 0005,Fashion,46992.11
+6,Gym Gloves 0006,Sports,57480.74
+7,Handbag 0007,Fashion,35419.87
+8,Saree 0008,Fashion,16916.31
+9,Novel 0009,Books,72750.78
+10,Dumbbells 0010,Sports,6328.49
+11,Moisturizer 0011,Beauty,57370.43
+12,Novel 0012,Books,80926.8
+13,Yoga Mat 0013,Sports,28823.2
+14,Smartphone 0014,Electronics,50657.49
+15,Saree 0015,Fashion,13426.37
+16,Saree 0016,Fashion,85813.27
+17,Bluetooth Speaker 0017,Electronics,60460.39
+18,Football 0018,Sports,65982.73
+19,Sneakers 0019,Fashion,26272.01
+20,Business Book 0020,Books,48593.87
+21,Yoga Mat 0021,Sports,34415.23
+22,Smartphone 0022,Electronics,59634.3
+23,Table Lamp 0023,Home & Kitchen,75324.58
+24,Hair Serum 0024,Beauty,23946.15
+25,Moisturizer 0025,Beauty,21242.5
+26,Finance Book 0026,Books,5620.71
+27,Jeans 0027,Fashion,5440.82
+28,Hair Serum 0028,Beauty,47726.95
+29,Perfume 0029,Beauty,38103.12
+30,Marketing Book 0030,Books,47563.04
+31,Coffee Maker 0031,Home & Kitchen,1382.93
+32,Hair Serum 0032,Beauty,67912.64
+33,Yoga Mat 0033,Sports,9915.96
+34,Running Shoes 0034,Sports,95626.13
+35,Sunscreen 0035,Beauty,33628.75
+36,Jeans 0036,Fashion,25682.32
+37,Tennis Balls 0037,Sports,46217.64
+38,Business Book 0038,Books,73483.48
+39,Badminton Racket 0039,Sports,52090.24
+40,Python Guide 0040,Books,31463.33
+41,Wireless Earbuds 0041,Electronics,83201.61
+42,Keyboard 0042,Electronics,9949.34
+43,Mouse 0043,Electronics,35280.34
+44,Novel 0044,Books,25338.23
+45,Wireless Earbuds 0045,Electronics,62014.84
+46,Power Bank 0046,Electronics,95057.8
+47,SQL Handbook 0047,Books,70864.9
+48,Bluetooth Speaker 0048,Electronics,85671.79
+49,Coffee Maker 0049,Home & Kitchen,65707.18
+50,Python Guide 0050,Books,89619.96
+51,Python Guide 0051,Books,25481.91
+52,Shampoo 0052,Beauty,63949.29
+53,Handbag 0053,Fashion,69282.7
+54,Finance Book 0054,Books,25881.19
+55,Smart Watch 0055,Electronics,77754.17
+56,Hair Serum 0056,Beauty,33397.94
+57,Smart Watch 0057,Electronics,95568.45
+58,Sneakers 0058,Fashion,44168.37
+59,Perfume 0059,Beauty,61107.13
+60,Table Lamp 0060,Home & Kitchen,11020.36
+61,Tennis Balls 0061,Sports,21993.97
+62,SQL Handbook 0062,Books,91277.4
+63,Novel 0063,Books,10507.05
+64,Bluetooth Speaker 0064,Electronics,57219.19
+65,Backpack 0065,Fashion,2071.73
+66,Moisturizer 0066,Beauty,65354.96
+67,Wireless Earbuds 0067,Electronics,66526.66
+68,Sneakers 0068,Fashion,70064.51
+69,Face Wash 0069,Beauty,51634.22
+70,Body Lotion 0070,Beauty,43717.56
+71,SQL Handbook 0071,Books,54103.85
+72,Keyboard 0072,Electronics,95423.7
+73,Shampoo 0073,Beauty,56809.94
+74,Jacket 0074,Fashion,68246.21
+75,Face Wash 0075,Beauty,63299.8
+76,SQL Handbook 0076,Books,36661.47
+77,Jeans 0077,Fashion,84148.92
+78,Kurta 0078,Fashion,17825.51
+79,Keyboard 0079,Electronics,66140.26
+80,Handbag 0080,Fashion,89665.78
+81,Finance Book 0081,Books,48752.05
+82,Biography 0082,Books,73584.35
+83,Mixer Grinder 0083,Home & Kitchen,19469.65
+84,Business Book 0084,Books,49024.41
+85,Smart Watch 0085,Electronics,50067.48
+86,Face Wash 0086,Beauty,3895.86
+87,USB Cable 0087,Electronics,78819.3
+88,Keyboard 0088,Electronics,11994.07
+89,Biography 0089,Books,94019.96
+90,Football 0090,Sports,74155.94
+91,Electric Kettle 0091,Home & Kitchen,3879.39
+92,Table Lamp 0092,Home & Kitchen,65451.39
+93,Face Wash 0093,Beauty,24418.72
+94,Python Guide 0094,Books,1632.65
+95,Data Analytics Book 0095,Books,90484.3
+96,Mouse 0096,Electronics,61199.34
+97,Cricket Bat 0097,Sports,81815.46
+98,Bluetooth Speaker 0098,Electronics,49813.92
+99,Badminton Racket 0099,Sports,6497.39
+100,Coffee Maker 0100,Home & Kitchen,33865.84
+101,Marketing Book 0101,Books,32557.65
+102,Python Guide 0102,Books,32293.67
+103,Mixer Grinder 0103,Home & Kitchen,59388.91
+104,Jeans 0104,Fashion,12249.4
+105,Coffee Maker 0105,Home & Kitchen,16970.48
+106,Sneakers 0106,Fashion,43977.39
+107,Yoga Mat 0107,Sports,13509.41
+108,Marketing Book 0108,Books,77809.63
+109,Mouse 0109,Electronics,8255.12
+110,Smartphone 0110,Electronics,92627.47
+111,Novel 0111,Books,41737.98
+112,Moisturizer 0112,Beauty,20773.79
+113,Novel 0113,Books,52403.07
+114,Perfume 0114,Beauty,93820.34
+115,Yoga Mat 0115,Sports,59706.94
+116,Biography 0116,Books,61281.57
+117,Smart Watch 0117,Electronics,34914.79
+118,Power Bank 0118,Electronics,19350.91
+119,Cricket Bat 0119,Sports,61967.31
+120,Badminton Racket 0120,Sports,46527.76
+121,Business Book 0121,Books,27786.37
+122,Electric Kettle 0122,Home & Kitchen,79700.97
+123,Biography 0123,Books,49850.98
+124,Mixer Grinder 0124,Home & Kitchen,5590.96
+125,Saree 0125,Fashion,21116.06
+126,Jacket 0126,Fashion,61757.57
+127,Face Wash 0127,Beauty,10620.23
+128,Smartphone 0128,Electronics,15971.95
+129,Mouse 0129,Electronics,51586.39
+130,Power Bank 0130,Electronics,72195.03
+131,Running Shoes 0131,Sports,42021.81
+132,Finance Book 0132,Books,23159.31
+133,USB Cable 0133,Electronics,22931.65
+134,Coffee Maker 0134,Home & Kitchen,87013.65
+135,Perfume 0135,Beauty,7537.27
+136,Gym Gloves 0136,Sports,5622.07
+137,Moisturizer 0137,Beauty,21772.28
+138,Gym Gloves 0138,Sports,17969.46
+139,Sneakers 0139,Fashion,45881.47
+140,Storage Box 0140,Home & Kitchen,97559.48
+141,Storage Box 0141,Home & Kitchen,12894.73
+142,Data Analytics Book 0142,Books,28203.29
+143,Mouse 0143,Electronics,45965.18
+144,Storage Box 0144,Home & Kitchen,22140.39
+145,Sneakers 0145,Fashion,78995.79
+146,Python Guide 0146,Books,57895.52
+147,Badminton Racket 0147,Sports,8829.14
+148,Gym Gloves 0148,Sports,86246.47
+149,Table Lamp 0149,Home & Kitchen,83730.5
+150,T-Shirt 0150,Fashion,73054.77
+151,Business Book 0151,Books,24932.58
+152,Perfume 0152,Beauty,89202.9
+153,Football 0153,Sports,91391.72
+154,Keyboard 0154,Electronics,98021.37
+155,Mouse 0155,Electronics,73399.93
+156,Yoga Mat 0156,Sports,42683.62
+157,Body Lotion 0157,Beauty,81008.71
+158,SQL Handbook 0158,Books,45352.65
+159,Electric Kettle 0159,Home & Kitchen,55936.0
+160,Keyboard 0160,Electronics,95002.4
+161,Storage Box 0161,Home & Kitchen,29718.88
+162,SQL Handbook 0162,Books,1788.83
+163,Novel 0163,Books,16346.92
+164,Face Wash 0164,Beauty,97645.79
+165,Moisturizer 0165,Beauty,87444.06
+166,Moisturizer 0166,Beauty,79026.9
+167,Backpack 0167,Fashion,70448.43
+168,Bluetooth Speaker 0168,Electronics,38609.95
+169,Finance Book 0169,Books,53184.85
+170,Handbag 0170,Fashion,75337.22
+171,Business Book 0171,Books,78810.65
+172,USB Cable 0172,Electronics,73627.93
+173,USB Cable 0173,Electronics,88819.2
+174,Keyboard 0174,Electronics,36684.97
+175,Yoga Mat 0175,Sports,36683.0
+176,Electric Kettle 0176,Home & Kitchen,56162.67
+177,Cookware Set 0177,Home & Kitchen,98127.91
+178,Electric Kettle 0178,Home & Kitchen,64973.03
+179,Business Book 0179,Books,75365.72
+180,Storage Box 0180,Home & Kitchen,35399.62
+181,Handbag 0181,Fashion,27858.1
+182,USB Cable 0182,Electronics,34652.61
+183,Shampoo 0183,Beauty,47121.35
+184,Dumbbells 0184,Sports,45306.44
+185,Jeans 0185,Fashion,18996.69
+186,Shampoo 0186,Beauty,8200.01
+187,Water Bottle 0187,Home & Kitchen,95833.0
+188,Bluetooth Speaker 0188,Electronics,16642.67
+189,Smartphone 0189,Electronics,49732.61
+190,Mixer Grinder 0190,Home & Kitchen,29457.31
+191,Python Guide 0191,Books,47494.71
+192,Body Lotion 0192,Beauty,73822.38
+193,Smart Watch 0193,Electronics,19067.25
+194,Power Bank 0194,Electronics,83526.76
+195,Running Shoes 0195,Sports,41285.83
+196,Jacket 0196,Fashion,48716.61
+197,Biography 0197,Books,45908.11
+198,Football 0198,Sports,89847.54
+199,Sneakers 0199,Fashion,78967.92
+200,Table Lamp 0200,Home & Kitchen,37314.85
+201,T-Shirt 0201,Fashion,15003.17
+202,Backpack 0202,Fashion,95629.14
+203,Football 0203,Sports,71237.85
+204,Sneakers 0204,Fashion,97324.97
+205,Python Guide 0205,Books,16292.22
+206,Wireless Earbuds 0206,Electronics,99377.55
+207,Football 0207,Sports,44199.69
+208,Sneakers 0208,Fashion,20673.51
+209,Data Analytics Book 0209,Books,66621.22
+210,Sneakers 0210,Fashion,37415.91
+211,Football 0211,Sports,53456.57
+212,Wireless Earbuds 0212,Electronics,40574.32
+213,Moisturizer 0213,Beauty,94788.35
+214,Sneakers 0214,Fashion,627.57
+215,Finance Book 0215,Books,64793.95
+216,Backpack 0216,Fashion,89617.55
+217,Football 0217,Sports,79996.7
+218,Biography 0218,Books,33999.71
+219,Mouse 0219,Electronics,90036.41
+220,Electric Kettle 0220,Home & Kitchen,30945.6
+221,Perfume 0221,Beauty,44707.07
+222,USB Cable 0222,Electronics,5691.36
+223,Business Book 0223,Books,58425.46
+224,Water Bottle 0224,Home & Kitchen,19731.42
+225,Mouse 0225,Electronics,67769.93
+226,Keyboard 0226,Electronics,19605.11
+227,T-Shirt 0227,Fashion,90862.01
+228,Handbag 0228,Fashion,14964.0
+229,Lip Balm 0229,Beauty,38733.04
+230,Smart Watch 0230,Electronics,34622.04
+231,Backpack 0231,Fashion,87454.31
+232,Power Bank 0232,Electronics,72838.77
+233,Hair Serum 0233,Beauty,80406.81
+234,Sneakers 0234,Fashion,80605.14
+235,Hair Serum 0235,Beauty,14127.86
+236,Cricket Bat 0236,Sports,14534.2
+237,Backpack 0237,Fashion,98839.57
+238,Running Shoes 0238,Sports,6797.35
+239,Tennis Balls 0239,Sports,9026.14
+240,Sunscreen 0240,Beauty,41567.5
+241,Gym Gloves 0241,Sports,71081.65
+242,Bedsheet 0242,Home & Kitchen,18762.44
+243,Sunscreen 0243,Beauty,55474.92
+244,Smart Watch 0244,Electronics,83490.6
+245,Backpack 0245,Fashion,56015.25
+246,Perfume 0246,Beauty,2877.63
+247,Smartphone 0247,Electronics,26414.17
+248,Biography 0248,Books,12591.86
+249,Novel 0249,Books,41831.25
+250,Perfume 0250,Beauty,3037.57
+251,Backpack 0251,Fashion,99433.43
+252,USB Cable 0252,Electronics,58189.36
+253,Tennis Balls 0253,Sports,86859.92
+254,Biography 0254,Books,97430.02
+255,USB Cable 0255,Electronics,51349.08
+256,Yoga Mat 0256,Sports,84557.95
+257,Mixer Grinder 0257,Home & Kitchen,14783.48
+258,Moisturizer 0258,Beauty,35866.07
+259,Smart Watch 0259,Electronics,36243.11
+260,Finance Book 0260,Books,5060.75
+261,Jeans 0261,Fashion,51482.88
+262,Python Guide 0262,Books,76515.0
+263,Football 0263,Sports,54461.49
+264,Saree 0264,Fashion,27290.61
+265,Finance Book 0265,Books,9763.17
+266,Running Shoes 0266,Sports,82365.82
+267,Smartphone 0267,Electronics,51912.44
+268,Backpack 0268,Fashion,41316.05
+269,Electric Kettle 0269,Home & Kitchen,21943.05
+270,Badminton Racket 0270,Sports,83190.04
+271,Cricket Bat 0271,Sports,41850.16
+272,Bluetooth Speaker 0272,Electronics,81919.71
+273,Mouse 0273,Electronics,34950.35
+274,Finance Book 0274,Books,14072.6
+275,Lip Balm 0275,Beauty,17385.27
+276,T-Shirt 0276,Fashion,74496.13
+277,Power Bank 0277,Electronics,13044.7
+278,Python Guide 0278,Books,68866.11
+279,Sneakers 0279,Fashion,21141.13
+280,Keyboard 0280,Electronics,69142.65
+281,Bluetooth Speaker 0281,Electronics,2075.88
+282,Hair Serum 0282,Beauty,4442.19
+283,Wireless Earbuds 0283,Electronics,79345.91
+284,Yoga Mat 0284,Sports,47013.42
+285,T-Shirt 0285,Fashion,6810.49
+286,Data Analytics Book 0286,Books,75503.12
+287,Power Bank 0287,Electronics,58841.78
+288,Cookware Set 0288,Home & Kitchen,67124.94
+289,Bluetooth Speaker 0289,Electronics,14725.59
+290,Novel 0290,Books,94888.4
+291,Jacket 0291,Fashion,16222.62
+292,Badminton Racket 0292,Sports,50588.94
+293,Bluetooth Speaker 0293,Electronics,81993.73
+294,Power Bank 0294,Electronics,71637.0
+295,Sneakers 0295,Fashion,90184.7
+296,Yoga Mat 0296,Sports,97362.27
+297,Power Bank 0297,Electronics,92062.62
+298,Biography 0298,Books,36772.01
+299,Football 0299,Sports,44077.65
+300,Smartphone 0300,Electronics,83506.27
+301,Hair Serum 0301,Beauty,21583.55
+302,Coffee Maker 0302,Home & Kitchen,11460.98
+303,Jeans 0303,Fashion,46695.99
+304,Football 0304,Sports,49681.44
+305,Saree 0305,Fashion,55800.79
+306,Bluetooth Speaker 0306,Electronics,32944.92
+307,Keyboard 0307,Electronics,28503.42
+308,Dumbbells 0308,Sports,68766.25
+309,Perfume 0309,Beauty,55479.81
+310,Handbag 0310,Fashion,19039.74
+311,Mouse 0311,Electronics,93919.38
+312,Sneakers 0312,Fashion,1475.03
+313,Biography 0313,Books,67274.13
+314,Body Lotion 0314,Beauty,52360.71
+315,SQL Handbook 0315,Books,12096.94
+316,Hair Serum 0316,Beauty,69563.7
+317,Smartphone 0317,Electronics,6657.1
+318,Storage Box 0318,Home & Kitchen,20185.3
+319,Shampoo 0319,Beauty,23439.39
+320,Body Lotion 0320,Beauty,27995.13
+321,Novel 0321,Books,75678.03
+322,Marketing Book 0322,Books,35737.51
+323,Marketing Book 0323,Books,98753.82
+324,Dumbbells 0324,Sports,14906.94
+325,Shampoo 0325,Beauty,12393.57
+326,Body Lotion 0326,Beauty,23235.01
+327,Mixer Grinder 0327,Home & Kitchen,10139.42
+328,Bluetooth Speaker 0328,Electronics,49912.86
+329,Smartphone 0329,Electronics,38385.77
+330,Finance Book 0330,Books,15442.12
+331,Cricket Bat 0331,Sports,76064.11
+332,Biography 0332,Books,79313.6
+333,Water Bottle 0333,Home & Kitchen,66275.9
+334,Sunscreen 0334,Beauty,54334.32
+335,Yoga Mat 0335,Sports,95266.53
+336,Keyboard 0336,Electronics,88035.54
+337,Keyboard 0337,Electronics,45120.53
+338,Body Lotion 0338,Beauty,46072.69
+339,Smartphone 0339,Electronics,55754.32
+340,Sneakers 0340,Fashion,49248.66
+341,Water Bottle 0341,Home & Kitchen,71628.17
+342,Shampoo 0342,Beauty,56970.75
+343,Body Lotion 0343,Beauty,47694.92
+344,Mixer Grinder 0344,Home & Kitchen,39259.2
+345,Hair Serum 0345,Beauty,61769.58
+346,Saree 0346,Fashion,32183.18
+347,Wireless Earbuds 0347,Electronics,12993.17
+348,Jacket 0348,Fashion,80992.43
+349,Yoga Mat 0349,Sports,76565.36
+350,Finance Book 0350,Books,38180.22
+351,Lip Balm 0351,Beauty,99195.16
+352,Lip Balm 0352,Beauty,5832.63
+353,Bedsheet 0353,Home & Kitchen,23614.28
+354,Jeans 0354,Fashion,91055.82
+355,Smart Watch 0355,Electronics,11623.24
+356,Mixer Grinder 0356,Home & Kitchen,53933.0
+357,Mouse 0357,Electronics,65844.23
+358,Hair Serum 0358,Beauty,26807.56
+359,Biography 0359,Books,58880.33
+360,Handbag 0360,Fashion,57120.28
+361,Jeans 0361,Fashion,80869.99
+362,Power Bank 0362,Electronics,33728.55
+363,Running Shoes 0363,Sports,16828.4
+364,Jacket 0364,Fashion,96947.89
+365,Table Lamp 0365,Home & Kitchen,63616.33
+366,Power Bank 0366,Electronics,28877.08
+367,Smart Watch 0367,Electronics,99622.52
+368,Perfume 0368,Beauty,62531.31
+369,Bluetooth Speaker 0369,Electronics,59267.09
+370,Jeans 0370,Fashion,56728.54
+371,Gym Gloves 0371,Sports,42824.17
+372,Jeans 0372,Fashion,65222.37
+373,Saree 0373,Fashion,43403.47
+374,Running Shoes 0374,Sports,20166.68
+375,Sunscreen 0375,Beauty,62570.39
+376,Moisturizer 0376,Beauty,88112.48
+377,Python Guide 0377,Books,57767.96
+378,Table Lamp 0378,Home & Kitchen,26939.01
+379,Marketing Book 0379,Books,93475.67
+380,Data Analytics Book 0380,Books,52321.5
+381,Backpack 0381,Fashion,14943.82
+382,Water Bottle 0382,Home & Kitchen,84442.38
+383,Lip Balm 0383,Beauty,86045.56
+384,Power Bank 0384,Electronics,84626.5
+385,Saree 0385,Fashion,64674.06
+386,Kurta 0386,Fashion,40704.42
+387,Smartphone 0387,Electronics,19352.22
+388,Water Bottle 0388,Home & Kitchen,46522.14
+389,Tennis Balls 0389,Sports,42316.51
+390,Power Bank 0390,Electronics,16102.98
+391,Mixer Grinder 0391,Home & Kitchen,25987.01
+392,Sneakers 0392,Fashion,64499.52
+393,Mouse 0393,Electronics,78265.93
+394,Bluetooth Speaker 0394,Electronics,31526.7
+395,Jeans 0395,Fashion,90076.37
+396,Lip Balm 0396,Beauty,67231.87
+397,Keyboard 0397,Electronics,94326.58
+398,Python Guide 0398,Books,23755.91
+399,Cricket Bat 0399,Sports,52290.36
+400,Dumbbells 0400,Sports,49744.82
+401,Power Bank 0401,Electronics,60061.17
+402,Jacket 0402,Fashion,83265.95
+403,Marketing Book 0403,Books,80621.99
+404,Business Book 0404,Books,93561.91
+405,Cookware Set 0405,Home & Kitchen,10859.04
+406,Water Bottle 0406,Home & Kitchen,44058.65
+407,T-Shirt 0407,Fashion,49136.79
+408,Jeans 0408,Fashion,31784.7
+409,Body Lotion 0409,Beauty,68336.3
+410,Sneakers 0410,Fashion,36426.2
+411,Finance Book 0411,Books,82171.26
+412,Wireless Earbuds 0412,Electronics,84178.0
+413,Data Analytics Book 0413,Books,69129.11
+414,Business Book 0414,Books,25446.69
+415,Sunscreen 0415,Beauty,63966.12
+416,Finance Book 0416,Books,90334.08
+417,SQL Handbook 0417,Books,53583.09
+418,Table Lamp 0418,Home & Kitchen,38968.41
+419,Sunscreen 0419,Beauty,30227.64
+420,Water Bottle 0420,Home & Kitchen,21195.57
+421,Table Lamp 0421,Home & Kitchen,63208.0
+422,Marketing Book 0422,Books,78972.88
+423,Jeans 0423,Fashion,82354.14
+424,Body Lotion 0424,Beauty,73745.81
+425,Handbag 0425,Fashion,87699.77
+426,Smartphone 0426,Electronics,69907.52
+427,Cricket Bat 0427,Sports,35314.26
+428,Running Shoes 0428,Sports,45434.52
+429,Wireless Earbuds 0429,Electronics,64208.01
+430,Table Lamp 0430,Home & Kitchen,79142.73
+431,Mixer Grinder 0431,Home & Kitchen,40185.05
+432,Novel 0432,Books,31508.44
+433,Bluetooth Speaker 0433,Electronics,15949.68
+434,Football 0434,Sports,84725.65
+435,Marketing Book 0435,Books,79304.7
+436,Backpack 0436,Fashion,47939.87
+437,Python Guide 0437,Books,26214.85
+438,Finance Book 0438,Books,79991.96
+439,Electric Kettle 0439,Home & Kitchen,41565.74
+440,Coffee Maker 0440,Home & Kitchen,87662.72
+441,Badminton Racket 0441,Sports,2268.32
+442,Power Bank 0442,Electronics,90702.11
+443,Perfume 0443,Beauty,26324.96
+444,Mixer Grinder 0444,Home & Kitchen,40222.28
+445,Sunscreen 0445,Beauty,15094.27
+446,Sneakers 0446,Fashion,94733.9
+447,Wireless Earbuds 0447,Electronics,71913.63
+448,Body Lotion 0448,Beauty,82759.29
+449,Shampoo 0449,Beauty,22602.5
+450,Bedsheet 0450,Home & Kitchen,94615.02
+451,Saree 0451,Fashion,74694.01
+452,Moisturizer 0452,Beauty,43243.6
+453,Bedsheet 0453,Home & Kitchen,99520.7
+454,Kurta 0454,Fashion,41948.43
+455,Moisturizer 0455,Beauty,3070.56
+456,Kurta 0456,Fashion,61843.49
+457,Storage Box 0457,Home & Kitchen,58372.73
+458,Biography 0458,Books,8755.72
+459,Moisturizer 0459,Beauty,87169.06
+460,Marketing Book 0460,Books,68746.87
+461,Marketing Book 0461,Books,70902.63
+462,Novel 0462,Books,7489.95
+463,Yoga Mat 0463,Sports,5399.84
+464,Table Lamp 0464,Home & Kitchen,90840.01
+465,Yoga Mat 0465,Sports,734.03
+466,Tennis Balls 0466,Sports,30389.23
+467,Lip Balm 0467,Beauty,13396.38
+468,Yoga Mat 0468,Sports,58131.59
+469,Sneakers 0469,Fashion,50472.92
+470,Backpack 0470,Fashion,13364.57
+471,Handbag 0471,Fashion,14350.21
+472,USB Cable 0472,Electronics,4606.38
+473,Table Lamp 0473,Home & Kitchen,87192.62
+474,Jacket 0474,Fashion,92637.46
+475,Saree 0475,Fashion,61369.57
+476,Jacket 0476,Fashion,43689.38
+477,Storage Box 0477,Home & Kitchen,73738.55
+478,Moisturizer 0478,Beauty,55655.34
+479,Biography 0479,Books,5510.57
+480,Mixer Grinder 0480,Home & Kitchen,23139.08
+481,Mouse 0481,Electronics,26169.35
+482,Biography 0482,Books,43754.7
+483,Face Wash 0483,Beauty,44262.66
+484,Biography 0484,Books,45883.42
+485,Smartphone 0485,Electronics,12539.69
+486,Power Bank 0486,Electronics,86842.68
+487,Cookware Set 0487,Home & Kitchen,75042.68
+488,Kurta 0488,Fashion,58437.03
+489,Smartphone 0489,Electronics,41757.62
+490,Power Bank 0490,Electronics,76870.69
+491,SQL Handbook 0491,Books,88758.3
+492,Smart Watch 0492,Electronics,68193.97
+493,SQL Handbook 0493,Books,39537.15
+494,Cricket Bat 0494,Sports,83729.33
+495,Mixer Grinder 0495,Home & Kitchen,8289.11
+496,Biography 0496,Books,45513.74
+497,T-Shirt 0497,Fashion,33075.81
+498,Mouse 0498,Electronics,32625.56
+499,Python Guide 0499,Books,21293.41
+500,Smart Watch 0500,Electronics,32451.45
+501,Bluetooth Speaker 0501,Electronics,54805.19
+502,Tennis Balls 0502,Sports,9435.59
+503,Sneakers 0503,Fashion,24159.0
+504,Shampoo 0504,Beauty,2246.1
+505,Cookware Set 0505,Home & Kitchen,38971.59
+506,Sunscreen 0506,Beauty,64786.37
+507,Python Guide 0507,Books,12235.08
+508,Hair Serum 0508,Beauty,73640.75
+509,Sneakers 0509,Fashion,36031.62
+510,USB Cable 0510,Electronics,51361.79
+511,Body Lotion 0511,Beauty,88563.22
+512,Sunscreen 0512,Beauty,56392.1
+513,Shampoo 0513,Beauty,75696.77
+514,Sneakers 0514,Fashion,43522.77
+515,Shampoo 0515,Beauty,4234.72
+516,Backpack 0516,Fashion,67707.72
+517,Python Guide 0517,Books,93079.63
+518,Cricket Bat 0518,Sports,29211.16
+519,Shampoo 0519,Beauty,90738.33
+520,Sunscreen 0520,Beauty,15029.93
+521,Water Bottle 0521,Home & Kitchen,84184.49
+522,Tennis Balls 0522,Sports,29688.07
+523,Bluetooth Speaker 0523,Electronics,91745.74
+524,Cricket Bat 0524,Sports,51162.03
+525,Shampoo 0525,Beauty,46571.72
+526,Novel 0526,Books,35673.67
+527,Cricket Bat 0527,Sports,76909.95
+528,Bluetooth Speaker 0528,Electronics,74102.51
+529,Moisturizer 0529,Beauty,78659.47
+530,Face Wash 0530,Beauty,8511.4
+531,Novel 0531,Books,31530.85
+532,Biography 0532,Books,75782.96
+533,Sunscreen 0533,Beauty,34264.17
+534,Bedsheet 0534,Home & Kitchen,18670.72
+535,Novel 0535,Books,87186.26
+536,Keyboard 0536,Electronics,53529.73
+537,Keyboard 0537,Electronics,11843.49
+538,Table Lamp 0538,Home & Kitchen,46123.27
+539,Body Lotion 0539,Beauty,30418.44
+540,Running Shoes 0540,Sports,69127.1
+541,Marketing Book 0541,Books,80502.15
+542,Smartphone 0542,Electronics,13683.37
+543,Electric Kettle 0543,Home & Kitchen,81632.63
+544,Business Book 0544,Books,85928.4
+545,Table Lamp 0545,Home & Kitchen,64931.6
+546,Business Book 0546,Books,43690.69
+547,Business Book 0547,Books,8791.14
+548,Moisturizer 0548,Beauty,47503.11
+549,Bluetooth Speaker 0549,Electronics,16776.33
+550,Table Lamp 0550,Home & Kitchen,96392.91
+551,Face Wash 0551,Beauty,86006.69
+552,Badminton Racket 0552,Sports,20292.57
+553,Tennis Balls 0553,Sports,5281.03
+554,Bluetooth Speaker 0554,Electronics,63113.91
+555,Marketing Book 0555,Books,97951.8
+556,Sunscreen 0556,Beauty,3893.32
+557,Body Lotion 0557,Beauty,51431.9
+558,Biography 0558,Books,23343.2
+559,Wireless Earbuds 0559,Electronics,42315.05
+560,Jeans 0560,Fashion,26930.32
+561,Marketing Book 0561,Books,88935.23
+562,Mouse 0562,Electronics,62344.13
+563,Finance Book 0563,Books,44941.87
+564,Face Wash 0564,Beauty,16300.08
+565,Business Book 0565,Books,47029.2
+566,Perfume 0566,Beauty,50861.07
+567,Running Shoes 0567,Sports,92188.21
+568,Biography 0568,Books,13288.62
+569,Handbag 0569,Fashion,95987.38
+570,Finance Book 0570,Books,79637.07
+571,Bedsheet 0571,Home & Kitchen,28388.23
+572,SQL Handbook 0572,Books,66771.23
+573,Cookware Set 0573,Home & Kitchen,20107.53
+574,Gym Gloves 0574,Sports,10269.19
+575,Body Lotion 0575,Beauty,30503.46
+576,Mixer Grinder 0576,Home & Kitchen,99925.27
+577,Saree 0577,Fashion,35831.98
+578,Cookware Set 0578,Home & Kitchen,82828.28
+579,Yoga Mat 0579,Sports,80719.19
+580,Handbag 0580,Fashion,11573.14
+581,Electric Kettle 0581,Home & Kitchen,56284.75
+582,Sunscreen 0582,Beauty,99366.55
+583,T-Shirt 0583,Fashion,77054.47
+584,Dumbbells 0584,Sports,89651.51
+585,SQL Handbook 0585,Books,70698.21
+586,Body Lotion 0586,Beauty,96271.18
+587,Bluetooth Speaker 0587,Electronics,78207.91
+588,Cricket Bat 0588,Sports,82395.3
+589,Bluetooth Speaker 0589,Electronics,16870.22
+590,Power Bank 0590,Electronics,91115.38
+591,Water Bottle 0591,Home & Kitchen,70873.7
+592,Gym Gloves 0592,Sports,73307.68
+593,Smartphone 0593,Electronics,64778.88
+594,Sneakers 0594,Fashion,12472.75
+595,Table Lamp 0595,Home & Kitchen,96968.74
+596,Power Bank 0596,Electronics,83513.37
+597,Lip Balm 0597,Beauty,28817.48
+598,Electric Kettle 0598,Home & Kitchen,26747.36
+599,Marketing Book 0599,Books,36191.21
+600,Business Book 0600,Books,15329.8
+601,Tennis Balls 0601,Sports,78763.13
+602,Coffee Maker 0602,Home & Kitchen,41457.26
+603,Body Lotion 0603,Beauty,95192.69
+604,Running Shoes 0604,Sports,94384.28
+605,Moisturizer 0605,Beauty,77060.16
+606,SQL Handbook 0606,Books,8659.87
+607,Handbag 0607,Fashion,98197.1
+608,Coffee Maker 0608,Home & Kitchen,6333.54
+609,Smartphone 0609,Electronics,90269.61
+610,Smart Watch 0610,Electronics,42045.67
+611,Novel 0611,Books,72209.79
+612,Jacket 0612,Fashion,987.64
+613,Sneakers 0613,Fashion,70088.45
+614,Perfume 0614,Beauty,88779.46
+615,Gym Gloves 0615,Sports,69806.6
+616,Marketing Book 0616,Books,77583.95
+617,Jeans 0617,Fashion,3888.62
+618,Handbag 0618,Fashion,72563.85
+619,Python Guide 0619,Books,52141.88
+620,Dumbbells 0620,Sports,21529.7
+621,Dumbbells 0621,Sports,52228.32
+622,Python Guide 0622,Books,2536.49
+623,Dumbbells 0623,Sports,24284.71
+624,Handbag 0624,Fashion,98697.08
+625,Wireless Earbuds 0625,Electronics,84189.03
+626,Jacket 0626,Fashion,12555.54
+627,SQL Handbook 0627,Books,44982.94
+628,Yoga Mat 0628,Sports,45423.09
+629,Bedsheet 0629,Home & Kitchen,35162.65
+630,Sneakers 0630,Fashion,71491.23
+631,Badminton Racket 0631,Sports,10700.65
+632,Badminton Racket 0632,Sports,82318.7
+633,Backpack 0633,Fashion,9978.19
+634,Marketing Book 0634,Books,82877.08
+635,Bluetooth Speaker 0635,Electronics,6405.93
+636,Table Lamp 0636,Home & Kitchen,21634.48
+637,USB Cable 0637,Electronics,67745.88
+638,Hair Serum 0638,Beauty,87226.08
+639,Gym Gloves 0639,Sports,63717.82
+640,Body Lotion 0640,Beauty,73224.35
+641,Moisturizer 0641,Beauty,14604.75
+642,Table Lamp 0642,Home & Kitchen,71171.83
+643,Electric Kettle 0643,Home & Kitchen,69507.18
+644,Body Lotion 0644,Beauty,3453.22
+645,Storage Box 0645,Home & Kitchen,92184.4
+646,Keyboard 0646,Electronics,11210.55
+647,Saree 0647,Fashion,4219.16
+648,Electric Kettle 0648,Home & Kitchen,37271.44
+649,Saree 0649,Fashion,29538.33
+650,Smartphone 0650,Electronics,14384.55
+651,Tennis Balls 0651,Sports,5054.37
+652,Saree 0652,Fashion,21714.03
+653,Biography 0653,Books,407.16
+654,Running Shoes 0654,Sports,6941.94
+655,Keyboard 0655,Electronics,48220.41
+656,Backpack 0656,Fashion,90047.67
+657,Body Lotion 0657,Beauty,83478.11
+658,Football 0658,Sports,76241.73
+659,Gym Gloves 0659,Sports,76214.54
+660,Biography 0660,Books,15067.46
+661,Finance Book 0661,Books,9112.64
+662,Tennis Balls 0662,Sports,38845.07
+663,Lip Balm 0663,Beauty,54190.25
+664,Biography 0664,Books,73643.1
+665,SQL Handbook 0665,Books,86621.17
+666,Data Analytics Book 0666,Books,57284.08
+667,Novel 0667,Books,56191.23
+668,Bluetooth Speaker 0668,Electronics,19403.19
+669,Yoga Mat 0669,Sports,95736.82
+670,Badminton Racket 0670,Sports,75104.75
+671,Yoga Mat 0671,Sports,12203.26
+672,Football 0672,Sports,96244.2
+673,Kurta 0673,Fashion,24678.61
+674,Biography 0674,Books,8646.86
+675,Running Shoes 0675,Sports,40298.43
+676,Mouse 0676,Electronics,86224.04
+677,USB Cable 0677,Electronics,43813.34
+678,Face Wash 0678,Beauty,85991.91
+679,Handbag 0679,Fashion,25865.34
+680,Bluetooth Speaker 0680,Electronics,54268.57
+681,Sneakers 0681,Fashion,18429.36
+682,Smartphone 0682,Electronics,30817.06
+683,Moisturizer 0683,Beauty,6078.59
+684,Sneakers 0684,Fashion,2910.69
+685,Smart Watch 0685,Electronics,39114.98
+686,Sneakers 0686,Fashion,41398.72
+687,Saree 0687,Fashion,37675.21
+688,Wireless Earbuds 0688,Electronics,20414.43
+689,Badminton Racket 0689,Sports,49398.35
+690,Tennis Balls 0690,Sports,94944.83
+691,T-Shirt 0691,Fashion,31968.98
+692,Tennis Balls 0692,Sports,6731.73
+693,Keyboard 0693,Electronics,63426.42
+694,Smart Watch 0694,Electronics,55495.71
+695,Cricket Bat 0695,Sports,24781.35
+696,Football 0696,Sports,30599.36
+697,Body Lotion 0697,Beauty,8573.05
+698,Business Book 0698,Books,78330.58
+699,Storage Box 0699,Home & Kitchen,54134.89
+700,Bedsheet 0700,Home & Kitchen,53845.06
+701,Body Lotion 0701,Beauty,4369.85
+702,Sunscreen 0702,Beauty,65374.27
+703,Mixer Grinder 0703,Home & Kitchen,6204.47
+704,Sunscreen 0704,Beauty,59866.2
+705,Marketing Book 0705,Books,99923.34
+706,Business Book 0706,Books,58597.88
+707,Dumbbells 0707,Sports,4738.38
+708,SQL Handbook 0708,Books,30202.71
+709,Shampoo 0709,Beauty,83082.71
+710,Novel 0710,Books,87851.27
+711,Storage Box 0711,Home & Kitchen,88415.37
+712,Saree 0712,Fashion,97967.11
+713,Biography 0713,Books,27445.71
+714,Finance Book 0714,Books,34293.65
+715,Lip Balm 0715,Beauty,1783.29
+716,Python Guide 0716,Books,64714.04
+717,Mouse 0717,Electronics,626.07
+718,Smartphone 0718,Electronics,41432.67
+719,Biography 0719,Books,76293.03
+720,Cricket Bat 0720,Sports,78772.06
+721,SQL Handbook 0721,Books,53956.2
+722,Biography 0722,Books,67289.14
+723,Handbag 0723,Fashion,82780.19
+724,Handbag 0724,Fashion,17882.23
+725,Data Analytics Book 0725,Books,12650.43
+726,Kurta 0726,Fashion,44567.85
+727,Mixer Grinder 0727,Home & Kitchen,75889.42
+728,Finance Book 0728,Books,19311.87
+729,Dumbbells 0729,Sports,80878.77
+730,Bedsheet 0730,Home & Kitchen,98014.89
+731,T-Shirt 0731,Fashion,28218.48
+732,Business Book 0732,Books,911.11
+733,Marketing Book 0733,Books,11271.46
+734,Backpack 0734,Fashion,17212.61
+735,Cookware Set 0735,Home & Kitchen,6721.99
+736,Electric Kettle 0736,Home & Kitchen,12916.6
+737,Badminton Racket 0737,Sports,88123.11
+738,Novel 0738,Books,19345.78
+739,Data Analytics Book 0739,Books,99195.75
+740,Novel 0740,Books,68130.9
+741,Face Wash 0741,Beauty,93800.46
+742,Data Analytics Book 0742,Books,85414.21
+743,Handbag 0743,Fashion,84464.29
+744,Sunscreen 0744,Beauty,12346.43
+745,Gym Gloves 0745,Sports,49657.36
+746,Yoga Mat 0746,Sports,88402.48
+747,Mixer Grinder 0747,Home & Kitchen,27936.72
+748,Body Lotion 0748,Beauty,31759.95
+749,Perfume 0749,Beauty,33602.64
+750,Yoga Mat 0750,Sports,99027.41
+751,Coffee Maker 0751,Home & Kitchen,95785.01
+752,Bedsheet 0752,Home & Kitchen,16614.26
+753,Jeans 0753,Fashion,62673.27
+754,Wireless Earbuds 0754,Electronics,48099.65
+755,USB Cable 0755,Electronics,84081.66
+756,Electric Kettle 0756,Home & Kitchen,47461.94
+757,T-Shirt 0757,Fashion,82198.05
+758,Badminton Racket 0758,Sports,94365.05
+759,Gym Gloves 0759,Sports,76456.04
+760,Biography 0760,Books,57976.66
+761,Wireless Earbuds 0761,Electronics,91687.09
+762,Lip Balm 0762,Beauty,89029.36
+763,SQL Handbook 0763,Books,78307.09
+764,Mouse 0764,Electronics,5666.93
+765,Tennis Balls 0765,Sports,6764.87
+766,Data Analytics Book 0766,Books,56012.95
+767,Handbag 0767,Fashion,40286.97
+768,Tennis Balls 0768,Sports,23463.58
+769,Yoga Mat 0769,Sports,45449.44
+770,Hair Serum 0770,Beauty,88016.83
+771,Cricket Bat 0771,Sports,34092.72
+772,Data Analytics Book 0772,Books,45515.86
+773,Kurta 0773,Fashion,10978.06
+774,Bluetooth Speaker 0774,Electronics,59369.07
+775,Cookware Set 0775,Home & Kitchen,63807.9
+776,Jacket 0776,Fashion,42215.5
+777,Biography 0777,Books,18754.16
+778,Mixer Grinder 0778,Home & Kitchen,6236.02
+779,Handbag 0779,Fashion,51408.95
+780,Finance Book 0780,Books,31255.59
+781,Football 0781,Sports,14910.42
+782,Jacket 0782,Fashion,29247.18
+783,Smartphone 0783,Electronics,5919.3
+784,Yoga Mat 0784,Sports,42320.7
+785,Bedsheet 0785,Home & Kitchen,64126.37
+786,Electric Kettle 0786,Home & Kitchen,34285.88
+787,Biography 0787,Books,69538.2
+788,Lip Balm 0788,Beauty,85229.47
+789,Running Shoes 0789,Sports,61686.09
+790,Lip Balm 0790,Beauty,16394.54
+791,Face Wash 0791,Beauty,49692.88
+792,Power Bank 0792,Electronics,69382.41
+793,Perfume 0793,Beauty,24053.1
+794,Finance Book 0794,Books,80764.68
+795,Perfume 0795,Beauty,40150.19
+796,USB Cable 0796,Electronics,1186.23
+797,T-Shirt 0797,Fashion,55557.22
+798,Water Bottle 0798,Home & Kitchen,44151.73
+799,Finance Book 0799,Books,4580.7
+800,Power Bank 0800,Electronics,19941.93
+801,Bedsheet 0801,Home & Kitchen,88560.15
+802,Python Guide 0802,Books,34112.79
+803,Badminton Racket 0803,Sports,18017.43
+804,Smartphone 0804,Electronics,84318.57
+805,Wireless Earbuds 0805,Electronics,83177.28
+806,Coffee Maker 0806,Home & Kitchen,65554.95
+807,USB Cable 0807,Electronics,93623.19
+808,Backpack 0808,Fashion,24165.96
+809,Sneakers 0809,Fashion,94126.94
+810,Tennis Balls 0810,Sports,87862.11
+811,Bluetooth Speaker 0811,Electronics,14613.34
+812,Bedsheet 0812,Home & Kitchen,19328.79
+813,Lip Balm 0813,Beauty,31930.57
+814,Perfume 0814,Beauty,92116.16
+815,Badminton Racket 0815,Sports,85471.66
+816,Sneakers 0816,Fashion,32901.52
+817,Smart Watch 0817,Electronics,87309.58
+818,Gym Gloves 0818,Sports,21080.91
+819,Mouse 0819,Electronics,79140.52
+820,Cricket Bat 0820,Sports,16908.87
+821,Lip Balm 0821,Beauty,49958.06
+822,Moisturizer 0822,Beauty,32316.95
+823,Backpack 0823,Fashion,71620.86
+824,Body Lotion 0824,Beauty,26978.88
+825,Face Wash 0825,Beauty,20877.52
+826,Table Lamp 0826,Home & Kitchen,86343.19
+827,Perfume 0827,Beauty,30737.7
+828,Moisturizer 0828,Beauty,93561.79
+829,Saree 0829,Fashion,55144.09
+830,Electric Kettle 0830,Home & Kitchen,29644.79
+831,Running Shoes 0831,Sports,23170.72
+832,Mouse 0832,Electronics,51322.76
+833,Handbag 0833,Fashion,45223.89
+834,Hair Serum 0834,Beauty,36876.69
+835,Lip Balm 0835,Beauty,27446.34
+836,Smartphone 0836,Electronics,44279.51
+837,Jeans 0837,Fashion,36036.47
+838,Smart Watch 0838,Electronics,84290.82
+839,Cricket Bat 0839,Sports,78629.15
+840,Electric Kettle 0840,Home & Kitchen,12034.07
+841,T-Shirt 0841,Fashion,54692.4
+842,Kurta 0842,Fashion,67574.71
+843,Saree 0843,Fashion,74571.09
+844,Novel 0844,Books,19225.12
+845,Football 0845,Sports,99839.83
+846,Novel 0846,Books,1050.68
+847,Saree 0847,Fashion,82265.42
+848,Hair Serum 0848,Beauty,82220.76
+849,Data Analytics Book 0849,Books,47305.0
+850,Football 0850,Sports,86572.52
+851,Bedsheet 0851,Home & Kitchen,72387.92
+852,Table Lamp 0852,Home & Kitchen,23524.57
+853,Gym Gloves 0853,Sports,72305.53
+854,Lip Balm 0854,Beauty,79232.11
+855,Kurta 0855,Fashion,42992.54
+856,Marketing Book 0856,Books,21115.56
+857,Face Wash 0857,Beauty,37594.08
+858,Football 0858,Sports,30695.08
+859,Data Analytics Book 0859,Books,50079.06
+860,Finance Book 0860,Books,34113.26
+861,Hair Serum 0861,Beauty,68638.13
+862,Sunscreen 0862,Beauty,32741.74
+863,Wireless Earbuds 0863,Electronics,92228.99
+864,Storage Box 0864,Home & Kitchen,56904.45
+865,Tennis Balls 0865,Sports,98020.18
+866,Coffee Maker 0866,Home & Kitchen,6557.18
+867,Perfume 0867,Beauty,47581.81
+868,Backpack 0868,Fashion,63971.53
+869,Jeans 0869,Fashion,17307.08
+870,Python Guide 0870,Books,3398.5
+871,Biography 0871,Books,2877.48
+872,Electric Kettle 0872,Home & Kitchen,91151.26
+873,Sunscreen 0873,Beauty,20747.05
+874,Jeans 0874,Fashion,45574.44
+875,T-Shirt 0875,Fashion,17347.21
+876,Hair Serum 0876,Beauty,15871.14
+877,Smartphone 0877,Electronics,53737.01
+878,Shampoo 0878,Beauty,39020.49
+879,Cookware Set 0879,Home & Kitchen,87069.82
+880,Handbag 0880,Fashion,81825.03
+881,Biography 0881,Books,16045.37
+882,Dumbbells 0882,Sports,58830.7
+883,Gym Gloves 0883,Sports,27688.01
+884,Smartphone 0884,Electronics,44683.01
+885,Perfume 0885,Beauty,52679.48
+886,Gym Gloves 0886,Sports,46127.42
+887,Yoga Mat 0887,Sports,73780.61
+888,Backpack 0888,Fashion,34807.83
+889,Novel 0889,Books,39229.82
+890,Coffee Maker 0890,Home & Kitchen,25062.65
+891,Tennis Balls 0891,Sports,45890.25
+892,Python Guide 0892,Books,69911.5
+893,Keyboard 0893,Electronics,69923.75
+894,Power Bank 0894,Electronics,88576.07
+895,Water Bottle 0895,Home & Kitchen,88278.07
+896,Dumbbells 0896,Sports,66731.36
+897,Power Bank 0897,Electronics,90890.9
+898,Shampoo 0898,Beauty,99531.57
+899,Bluetooth Speaker 0899,Electronics,50537.61
+900,Handbag 0900,Fashion,45202.41
+901,Kurta 0901,Fashion,50704.24
+902,Face Wash 0902,Beauty,7503.91
+903,Biography 0903,Books,38238.33
+904,Marketing Book 0904,Books,85605.16
+905,Face Wash 0905,Beauty,1270.59
+906,Smartphone 0906,Electronics,32844.61
+907,Biography 0907,Books,48577.97
+908,Bluetooth Speaker 0908,Electronics,54932.17
+909,Table Lamp 0909,Home & Kitchen,14196.52
+910,Sneakers 0910,Fashion,17223.79
+911,Bluetooth Speaker 0911,Electronics,17887.21
+912,Keyboard 0912,Electronics,17010.65
+913,Data Analytics Book 0913,Books,67801.84
+914,Table Lamp 0914,Home & Kitchen,35936.08
+915,Mixer Grinder 0915,Home & Kitchen,89289.23
+916,Badminton Racket 0916,Sports,44316.4
+917,Bluetooth Speaker 0917,Electronics,39182.72
+918,Backpack 0918,Fashion,5430.04
+919,Wireless Earbuds 0919,Electronics,77285.49
+920,Bedsheet 0920,Home & Kitchen,37588.54
+921,Bedsheet 0921,Home & Kitchen,9319.37
+922,Face Wash 0922,Beauty,98930.2
+923,Kurta 0923,Fashion,68058.96
+924,Power Bank 0924,Electronics,95881.78
+925,Smartphone 0925,Electronics,72455.35
+926,Keyboard 0926,Electronics,51346.51
+927,Jacket 0927,Fashion,56292.0
+928,Bedsheet 0928,Home & Kitchen,93444.87
+929,Hair Serum 0929,Beauty,12255.24
+930,Electric Kettle 0930,Home & Kitchen,35785.32
+931,Mixer Grinder 0931,Home & Kitchen,40332.52
+932,T-Shirt 0932,Fashion,39039.83
+933,Perfume 0933,Beauty,6787.43
+934,Jacket 0934,Fashion,4584.11
+935,Coffee Maker 0935,Home & Kitchen,30292.12
+936,Gym Gloves 0936,Sports,98312.63
+937,Smartphone 0937,Electronics,25342.63
+938,USB Cable 0938,Electronics,98144.31
+939,Marketing Book 0939,Books,67853.47
+940,Python Guide 0940,Books,33337.25
+941,Finance Book 0941,Books,97805.55
+942,Biography 0942,Books,6936.85
+943,Mouse 0943,Electronics,38359.67
+944,Business Book 0944,Books,50440.32
+945,Data Analytics Book 0945,Books,23413.07
+946,Cricket Bat 0946,Sports,31022.09
+947,Marketing Book 0947,Books,75772.13
+948,Cricket Bat 0948,Sports,6179.32
+949,Backpack 0949,Fashion,29801.15
+950,Coffee Maker 0950,Home & Kitchen,20596.66
+951,Power Bank 0951,Electronics,92355.23
+952,Gym Gloves 0952,Sports,73976.71
+953,Sneakers 0953,Fashion,27956.02
+954,Data Analytics Book 0954,Books,52182.11
+955,Sunscreen 0955,Beauty,75103.98
+956,Storage Box 0956,Home & Kitchen,34403.3
+957,Mixer Grinder 0957,Home & Kitchen,90680.88
+958,Business Book 0958,Books,80183.89
+959,Business Book 0959,Books,60883.71
+960,Lip Balm 0960,Beauty,18516.84
+961,Data Analytics Book 0961,Books,6647.76
+962,Shampoo 0962,Beauty,95374.39
+963,Smartphone 0963,Electronics,93838.8
+964,Electric Kettle 0964,Home & Kitchen,17531.85
+965,Badminton Racket 0965,Sports,23782.75
+966,Keyboard 0966,Electronics,72552.91
+967,Sneakers 0967,Fashion,72222.04
+968,Coffee Maker 0968,Home & Kitchen,17807.26
+969,Water Bottle 0969,Home & Kitchen,28677.22
+970,Perfume 0970,Beauty,27330.71
+971,Shampoo 0971,Beauty,95110.12
+972,Handbag 0972,Fashion,37895.21
+973,Body Lotion 0973,Beauty,42384.19
+974,Tennis Balls 0974,Sports,76079.38
+975,Face Wash 0975,Beauty,76239.54
+976,Shampoo 0976,Beauty,75933.06
+977,Sneakers 0977,Fashion,55373.64
+978,Water Bottle 0978,Home & Kitchen,38167.93
+979,Backpack 0979,Fashion,28464.93
+980,Gym Gloves 0980,Sports,7378.58
+981,Table Lamp 0981,Home & Kitchen,19731.43
+982,Mixer Grinder 0982,Home & Kitchen,1479.86
+983,Running Shoes 0983,Sports,49246.08
+984,Hair Serum 0984,Beauty,97054.17
+985,Handbag 0985,Fashion,49056.2
+986,SQL Handbook 0986,Books,40996.0
+987,Bluetooth Speaker 0987,Electronics,38604.64
+988,Football 0988,Sports,19582.97
+989,Sunscreen 0989,Beauty,77171.78
+990,Finance Book 0990,Books,51057.91
+991,Lip Balm 0991,Beauty,69705.25
+992,Marketing Book 0992,Books,92665.57
+993,Business Book 0993,Books,24385.82
+994,USB Cable 0994,Electronics,63168.08
+995,Data Analytics Book 0995,Books,69806.65
+996,Python Guide 0996,Books,26279.8
+997,Moisturizer 0997,Beauty,25576.95
+998,Football 0998,Sports,1430.27
+999,Keyboard 0999,Electronics,39886.16
+1000,Cricket Bat 1000,Sports,51949.0
+1001,Coffee Maker 1001,Home & Kitchen,16748.2
+1002,Sunscreen 1002,Beauty,69244.31
+1003,Tennis Balls 1003,Sports,58689.76
+1004,Marketing Book 1004,Books,75294.73
+1005,SQL Handbook 1005,Books,11104.55
+1006,Running Shoes 1006,Sports,81458.96
+1007,Kurta 1007,Fashion,93014.68
+1008,Sunscreen 1008,Beauty,839.75
+1009,Table Lamp 1009,Home & Kitchen,356.54
+1010,Keyboard 1010,Electronics,52590.21
+1011,Novel 1011,Books,73356.62
+1012,Cookware Set 1012,Home & Kitchen,37589.21
+1013,Python Guide 1013,Books,19961.45
+1014,Electric Kettle 1014,Home & Kitchen,45174.95
+1015,Cookware Set 1015,Home & Kitchen,20252.9
+1016,Python Guide 1016,Books,80955.03
+1017,Water Bottle 1017,Home & Kitchen,98297.12
+1018,Body Lotion 1018,Beauty,62757.37
+1019,Cricket Bat 1019,Sports,86861.53
+1020,Electric Kettle 1020,Home & Kitchen,29452.93
+1021,Shampoo 1021,Beauty,27819.87
+1022,T-Shirt 1022,Fashion,58646.51
+1023,Body Lotion 1023,Beauty,67344.9
+1024,Wireless Earbuds 1024,Electronics,6292.44
+1025,Wireless Earbuds 1025,Electronics,9863.82
+1026,Yoga Mat 1026,Sports,37690.45
+1027,Dumbbells 1027,Sports,93225.41
+1028,Lip Balm 1028,Beauty,60515.28
+1029,Jacket 1029,Fashion,68248.63
+1030,Jacket 1030,Fashion,81720.35
+1031,Handbag 1031,Fashion,37966.88
+1032,USB Cable 1032,Electronics,87332.13
+1033,Wireless Earbuds 1033,Electronics,45799.54
+1034,Marketing Book 1034,Books,72575.97
+1035,Mixer Grinder 1035,Home & Kitchen,60269.54
+1036,Dumbbells 1036,Sports,95114.98
+1037,Storage Box 1037,Home & Kitchen,45300.42
+1038,Biography 1038,Books,51587.42
+1039,Business Book 1039,Books,511.29
+1040,Finance Book 1040,Books,1858.7
+1041,T-Shirt 1041,Fashion,96964.84
+1042,Finance Book 1042,Books,67856.36
+1043,Table Lamp 1043,Home & Kitchen,40135.49
+1044,Cricket Bat 1044,Sports,34962.73
+1045,Shampoo 1045,Beauty,73479.92
+1046,Kurta 1046,Fashion,71250.81
+1047,Yoga Mat 1047,Sports,12959.56
+1048,Smart Watch 1048,Electronics,83267.94
+1049,Gym Gloves 1049,Sports,16970.67
+1050,Shampoo 1050,Beauty,48319.42
+1051,Badminton Racket 1051,Sports,24485.93
+1052,Electric Kettle 1052,Home & Kitchen,10724.87
+1053,Data Analytics Book 1053,Books,16190.48
+1054,Handbag 1054,Fashion,76676.62
+1055,Water Bottle 1055,Home & Kitchen,66659.08
+1056,SQL Handbook 1056,Books,66613.54
+1057,Gym Gloves 1057,Sports,9225.09
+1058,Finance Book 1058,Books,87218.67
+1059,Cricket Bat 1059,Sports,64468.86
+1060,Hair Serum 1060,Beauty,65460.18
+1061,Tennis Balls 1061,Sports,80882.06
+1062,Water Bottle 1062,Home & Kitchen,11744.86
+1063,Bluetooth Speaker 1063,Electronics,9095.11
+1064,Business Book 1064,Books,74511.85
+1065,USB Cable 1065,Electronics,12915.26
+1066,Handbag 1066,Fashion,57775.3
+1067,Smart Watch 1067,Electronics,6375.12
+1068,Badminton Racket 1068,Sports,84741.44
+1069,Lip Balm 1069,Beauty,77172.83
+1070,Python Guide 1070,Books,52070.19
+1071,Badminton Racket 1071,Sports,10836.28
+1072,Mouse 1072,Electronics,31728.44
+1073,Kurta 1073,Fashion,50082.3
+1074,Moisturizer 1074,Beauty,60225.25
+1075,Mixer Grinder 1075,Home & Kitchen,59967.25
+1076,Jeans 1076,Fashion,27489.56
+1077,Biography 1077,Books,63180.49
+1078,Table Lamp 1078,Home & Kitchen,29290.21
+1079,Face Wash 1079,Beauty,98117.05
+1080,Sneakers 1080,Fashion,82821.89
+1081,Bedsheet 1081,Home & Kitchen,70099.66
+1082,Smartphone 1082,Electronics,85705.52
+1083,Marketing Book 1083,Books,30049.36
+1084,Python Guide 1084,Books,99107.11
+1085,Tennis Balls 1085,Sports,33872.53
+1086,Biography 1086,Books,99032.37
+1087,Hair Serum 1087,Beauty,7366.96
+1088,Novel 1088,Books,28378.94
+1089,Coffee Maker 1089,Home & Kitchen,9911.49
+1090,T-Shirt 1090,Fashion,85010.01
+1091,Novel 1091,Books,45860.74
+1092,Cookware Set 1092,Home & Kitchen,44299.0
+1093,Sunscreen 1093,Beauty,89741.37
+1094,Bedsheet 1094,Home & Kitchen,80473.97
+1095,Mixer Grinder 1095,Home & Kitchen,36349.13
+1096,Cricket Bat 1096,Sports,67895.12
+1097,Coffee Maker 1097,Home & Kitchen,95048.74
+1098,Moisturizer 1098,Beauty,92612.34
+1099,USB Cable 1099,Electronics,97420.04
+1100,Mixer Grinder 1100,Home & Kitchen,11910.22
+1101,Running Shoes 1101,Sports,59419.56
+1102,Coffee Maker 1102,Home & Kitchen,24650.1
+1103,Power Bank 1103,Electronics,39784.15
+1104,Sneakers 1104,Fashion,65348.14
+1105,Shampoo 1105,Beauty,77816.53
+1106,Marketing Book 1106,Books,27665.56
+1107,Biography 1107,Books,36857.84
+1108,Bluetooth Speaker 1108,Electronics,8446.17
+1109,Perfume 1109,Beauty,2497.07
+1110,Gym Gloves 1110,Sports,27516.74
+1111,SQL Handbook 1111,Books,79474.5
+1112,Coffee Maker 1112,Home & Kitchen,48521.31
+1113,Marketing Book 1113,Books,29975.66
+1114,Electric Kettle 1114,Home & Kitchen,32656.85
+1115,Python Guide 1115,Books,40650.99
+1116,Data Analytics Book 1116,Books,39499.9
+1117,Gym Gloves 1117,Sports,6579.38
+1118,Cricket Bat 1118,Sports,75399.12
+1119,Electric Kettle 1119,Home & Kitchen,18229.28
+1120,Football 1120,Sports,730.34
+1121,Lip Balm 1121,Beauty,12478.92
+1122,Bedsheet 1122,Home & Kitchen,65332.52
+1123,Smart Watch 1123,Electronics,85173.72
+1124,Bluetooth Speaker 1124,Electronics,97995.86
+1125,Dumbbells 1125,Sports,36482.25
+1126,Football 1126,Sports,42419.52
+1127,Data Analytics Book 1127,Books,24983.04
+1128,Smart Watch 1128,Electronics,65982.93
+1129,Moisturizer 1129,Beauty,57790.73
+1130,Finance Book 1130,Books,52361.09
+1131,Kurta 1131,Fashion,68854.44
+1132,Data Analytics Book 1132,Books,23861.62
+1133,Cookware Set 1133,Home & Kitchen,30109.98
+1134,Cookware Set 1134,Home & Kitchen,60293.01
+1135,Storage Box 1135,Home & Kitchen,27883.09
+1136,Marketing Book 1136,Books,7620.09
+1137,Saree 1137,Fashion,38300.87
+1138,Coffee Maker 1138,Home & Kitchen,45714.56
+1139,Handbag 1139,Fashion,94030.89
+1140,Bedsheet 1140,Home & Kitchen,7240.69
+1141,Novel 1141,Books,99535.86
+1142,Business Book 1142,Books,71500.61
+1143,Football 1143,Sports,42083.71
+1144,Storage Box 1144,Home & Kitchen,99245.41
+1145,Hair Serum 1145,Beauty,2784.8
+1146,Badminton Racket 1146,Sports,7935.95
+1147,Bluetooth Speaker 1147,Electronics,68460.13
+1148,Shampoo 1148,Beauty,33068.88
+1149,USB Cable 1149,Electronics,90941.69
+1150,Sneakers 1150,Fashion,86910.77
+1151,Water Bottle 1151,Home & Kitchen,1183.36
+1152,Perfume 1152,Beauty,37986.51
+1153,Bluetooth Speaker 1153,Electronics,17736.99
+1154,Novel 1154,Books,58963.94
+1155,Shampoo 1155,Beauty,52989.22
+1156,Novel 1156,Books,55242.91
+1157,Cricket Bat 1157,Sports,89676.71
+1158,Storage Box 1158,Home & Kitchen,94660.73
+1159,Moisturizer 1159,Beauty,34647.25
+1160,Marketing Book 1160,Books,47789.81
+1161,Water Bottle 1161,Home & Kitchen,1146.85
+1162,Football 1162,Sports,65823.78
+1163,Coffee Maker 1163,Home & Kitchen,56841.57
+1164,T-Shirt 1164,Fashion,91859.48
+1165,Finance Book 1165,Books,70807.74
+1166,Coffee Maker 1166,Home & Kitchen,70736.32
+1167,Table Lamp 1167,Home & Kitchen,98626.38
+1168,Sunscreen 1168,Beauty,27726.13
+1169,Perfume 1169,Beauty,30656.71
+1170,Smart Watch 1170,Electronics,40769.18
+1171,Jeans 1171,Fashion,63539.73
+1172,Power Bank 1172,Electronics,94496.72
+1173,Mixer Grinder 1173,Home & Kitchen,8640.6
+1174,Backpack 1174,Fashion,80872.02
+1175,Keyboard 1175,Electronics,67766.9
+1176,Python Guide 1176,Books,48068.66
+1177,Cricket Bat 1177,Sports,40665.05
+1178,Badminton Racket 1178,Sports,91105.46
+1179,Data Analytics Book 1179,Books,71472.18
+1180,Finance Book 1180,Books,24572.78
+1181,Data Analytics Book 1181,Books,60814.88
+1182,Bedsheet 1182,Home & Kitchen,17645.46
+1183,Sneakers 1183,Fashion,51464.71
+1184,Keyboard 1184,Electronics,49650.68
+1185,Storage Box 1185,Home & Kitchen,96977.89
+1186,Kurta 1186,Fashion,83205.3
+1187,Smart Watch 1187,Electronics,30056.96
+1188,Saree 1188,Fashion,21462.98
+1189,Marketing Book 1189,Books,21901.83
+1190,T-Shirt 1190,Fashion,93553.36
+1191,Gym Gloves 1191,Sports,5937.17
+1192,Mouse 1192,Electronics,32988.47
+1193,Jeans 1193,Fashion,713.41
+1194,Python Guide 1194,Books,40325.4
+1195,Bluetooth Speaker 1195,Electronics,43193.22
+1196,Electric Kettle 1196,Home & Kitchen,53002.84
+1197,Coffee Maker 1197,Home & Kitchen,12558.5
+1198,Face Wash 1198,Beauty,15730.91
+1199,Novel 1199,Books,22763.3
+1200,Lip Balm 1200,Beauty,30067.64
+1201,Moisturizer 1201,Beauty,53734.45
+1202,Jeans 1202,Fashion,98938.05
+1203,Biography 1203,Books,16350.06
+1204,Handbag 1204,Fashion,778.86
+1205,Business Book 1205,Books,11243.43
+1206,T-Shirt 1206,Fashion,13540.3
+1207,Lip Balm 1207,Beauty,90118.58
+1208,Bedsheet 1208,Home & Kitchen,94846.91
+1209,Novel 1209,Books,12054.47
+1210,Body Lotion 1210,Beauty,80021.04
+1211,Python Guide 1211,Books,32622.79
+1212,Hair Serum 1212,Beauty,13314.48
+1213,Wireless Earbuds 1213,Electronics,12786.13
+1214,T-Shirt 1214,Fashion,76784.02
+1215,Mixer Grinder 1215,Home & Kitchen,67894.37
+1216,Handbag 1216,Fashion,97647.56
+1217,Data Analytics Book 1217,Books,43544.99
+1218,Saree 1218,Fashion,48694.74
+1219,Perfume 1219,Beauty,61836.79
+1220,Python Guide 1220,Books,25095.79
+1221,Smart Watch 1221,Electronics,99425.85
+1222,Coffee Maker 1222,Home & Kitchen,20000.56
+1223,SQL Handbook 1223,Books,70173.27
+1224,Football 1224,Sports,19028.17
+1225,Football 1225,Sports,23091.54
+1226,Coffee Maker 1226,Home & Kitchen,4027.97
+1227,Cookware Set 1227,Home & Kitchen,42744.04
+1228,Badminton Racket 1228,Sports,9274.36
+1229,Keyboard 1229,Electronics,40847.26
+1230,Kurta 1230,Fashion,22332.17
+1231,Body Lotion 1231,Beauty,6321.7
+1232,Face Wash 1232,Beauty,30567.14
+1233,Jacket 1233,Fashion,28198.48
+1234,Handbag 1234,Fashion,24846.47
+1235,Smartphone 1235,Electronics,4279.74
+1236,USB Cable 1236,Electronics,21354.36
+1237,Sunscreen 1237,Beauty,90865.5
+1238,Keyboard 1238,Electronics,18646.03
+1239,Lip Balm 1239,Beauty,33560.36
+1240,Bluetooth Speaker 1240,Electronics,66959.96
+1241,Python Guide 1241,Books,33253.93
+1242,Finance Book 1242,Books,74343.62
+1243,Running Shoes 1243,Sports,23976.57
+1244,Kurta 1244,Fashion,58514.86
+1245,Bluetooth Speaker 1245,Electronics,13221.44
+1246,SQL Handbook 1246,Books,4294.69
+1247,Business Book 1247,Books,19453.17
+1248,Shampoo 1248,Beauty,7671.98
+1249,Running Shoes 1249,Sports,30286.35
+1250,Perfume 1250,Beauty,53448.04
+1251,Mixer Grinder 1251,Home & Kitchen,12956.63
+1252,Sunscreen 1252,Beauty,89179.35
+1253,Running Shoes 1253,Sports,89511.32
+1254,Shampoo 1254,Beauty,91101.75
+1255,Mouse 1255,Electronics,42015.62
+1256,Yoga Mat 1256,Sports,16859.13
+1257,Sneakers 1257,Fashion,29106.7
+1258,Yoga Mat 1258,Sports,79479.16
+1259,Business Book 1259,Books,74122.38
+1260,Body Lotion 1260,Beauty,68531.49
+1261,Cricket Bat 1261,Sports,16717.72
+1262,Tennis Balls 1262,Sports,56336.36
+1263,Hair Serum 1263,Beauty,60799.39
+1264,Cookware Set 1264,Home & Kitchen,558.33
+1265,Badminton Racket 1265,Sports,59291.85
+1266,Mouse 1266,Electronics,50480.01
+1267,Novel 1267,Books,30479.34
+1268,Water Bottle 1268,Home & Kitchen,70882.82
+1269,Cricket Bat 1269,Sports,17275.69
+1270,Power Bank 1270,Electronics,29324.96
+1271,Python Guide 1271,Books,94215.19
+1272,Sneakers 1272,Fashion,27188.4
+1273,Power Bank 1273,Electronics,98954.72
+1274,Electric Kettle 1274,Home & Kitchen,338.72
+1275,Jacket 1275,Fashion,32590.27
+1276,Novel 1276,Books,72262.54
+1277,Sunscreen 1277,Beauty,32597.59
+1278,Wireless Earbuds 1278,Electronics,82427.39
+1279,Water Bottle 1279,Home & Kitchen,17837.18
+1280,Bluetooth Speaker 1280,Electronics,72314.7
+1281,Marketing Book 1281,Books,94575.5
+1282,Kurta 1282,Fashion,81720.33
+1283,Storage Box 1283,Home & Kitchen,27024.59
+1284,Tennis Balls 1284,Sports,15732.02
+1285,Coffee Maker 1285,Home & Kitchen,36989.27
+1286,Shampoo 1286,Beauty,49695.93
+1287,Moisturizer 1287,Beauty,81595.68
+1288,Bedsheet 1288,Home & Kitchen,57050.87
+1289,Python Guide 1289,Books,64825.91
+1290,Smart Watch 1290,Electronics,16458.28
+1291,Coffee Maker 1291,Home & Kitchen,68798.21
+1292,Electric Kettle 1292,Home & Kitchen,14522.53
+1293,Perfume 1293,Beauty,45610.41
+1294,Marketing Book 1294,Books,10202.33
+1295,Football 1295,Sports,72730.11
+1296,Bluetooth Speaker 1296,Electronics,37910.94
+1297,Bluetooth Speaker 1297,Electronics,82689.91
+1298,Data Analytics Book 1298,Books,13390.47
+1299,Smart Watch 1299,Electronics,14434.03
+1300,Data Analytics Book 1300,Books,79280.56
+1301,Bluetooth Speaker 1301,Electronics,54327.54
+1302,Jeans 1302,Fashion,20390.7
+1303,Body Lotion 1303,Beauty,81582.4
+1304,Jacket 1304,Fashion,47994.06
+1305,Mixer Grinder 1305,Home & Kitchen,54442.94
+1306,Jeans 1306,Fashion,2315.55
+1307,Bluetooth Speaker 1307,Electronics,54554.28
+1308,Keyboard 1308,Electronics,14354.14
+1309,Mixer Grinder 1309,Home & Kitchen,22821.18
+1310,Moisturizer 1310,Beauty,35459.33
+1311,Kurta 1311,Fashion,92183.75
+1312,Marketing Book 1312,Books,68738.28
+1313,SQL Handbook 1313,Books,49282.69
+1314,Power Bank 1314,Electronics,10352.28
+1315,Jacket 1315,Fashion,7812.74
+1316,Jeans 1316,Fashion,36176.25
+1317,Wireless Earbuds 1317,Electronics,60528.74
+1318,Coffee Maker 1318,Home & Kitchen,53140.97
+1319,Football 1319,Sports,68006.44
+1320,Water Bottle 1320,Home & Kitchen,62549.88
+1321,Jacket 1321,Fashion,87564.14
+1322,Backpack 1322,Fashion,66239.83
+1323,Jeans 1323,Fashion,78926.84
+1324,Cookware Set 1324,Home & Kitchen,32160.55
+1325,Body Lotion 1325,Beauty,72189.08
+1326,Shampoo 1326,Beauty,11492.77
+1327,Sunscreen 1327,Beauty,14636.85
+1328,Sneakers 1328,Fashion,18349.86
+1329,Lip Balm 1329,Beauty,32066.71
+1330,Body Lotion 1330,Beauty,69402.4
+1331,Lip Balm 1331,Beauty,13993.48
+1332,Business Book 1332,Books,38440.88
+1333,Gym Gloves 1333,Sports,53965.97
+1334,Perfume 1334,Beauty,38584.8
+1335,Tennis Balls 1335,Sports,52788.21
+1336,Business Book 1336,Books,70367.71
+1337,Storage Box 1337,Home & Kitchen,485.04
+1338,USB Cable 1338,Electronics,55924.77
+1339,Electric Kettle 1339,Home & Kitchen,6144.82
+1340,Jacket 1340,Fashion,84904.4
+1341,Water Bottle 1341,Home & Kitchen,46145.76
+1342,Tennis Balls 1342,Sports,24400.24
+1343,Mixer Grinder 1343,Home & Kitchen,74749.14
+1344,Smartphone 1344,Electronics,37869.59
+1345,Keyboard 1345,Electronics,37293.09
+1346,SQL Handbook 1346,Books,66341.18
+1347,Mouse 1347,Electronics,83775.23
+1348,Mixer Grinder 1348,Home & Kitchen,14858.29
+1349,Electric Kettle 1349,Home & Kitchen,24654.57
+1350,Keyboard 1350,Electronics,15140.78
+1351,Table Lamp 1351,Home & Kitchen,74406.08
+1352,Novel 1352,Books,47123.41
+1353,Finance Book 1353,Books,44507.57
+1354,Data Analytics Book 1354,Books,28818.55
+1355,Mixer Grinder 1355,Home & Kitchen,88138.48
+1356,Smartphone 1356,Electronics,50427.88
+1357,Keyboard 1357,Electronics,83300.47
+1358,Biography 1358,Books,55503.76
+1359,Saree 1359,Fashion,70992.41
+1360,Moisturizer 1360,Beauty,27327.4
+1361,Keyboard 1361,Electronics,97796.04
+1362,Bedsheet 1362,Home & Kitchen,40159.16
+1363,Power Bank 1363,Electronics,39349.64
+1364,SQL Handbook 1364,Books,81691.57
+1365,Body Lotion 1365,Beauty,31455.33
+1366,Marketing Book 1366,Books,82758.92
+1367,Mixer Grinder 1367,Home & Kitchen,80372.26
+1368,Marketing Book 1368,Books,19633.11
+1369,Bluetooth Speaker 1369,Electronics,7964.3
+1370,Running Shoes 1370,Sports,2998.28
+1371,Sneakers 1371,Fashion,54247.48
+1372,Power Bank 1372,Electronics,59790.65
+1373,Kurta 1373,Fashion,55257.8
+1374,Data Analytics Book 1374,Books,24184.45
+1375,Wireless Earbuds 1375,Electronics,56460.18
+1376,Face Wash 1376,Beauty,4994.28
+1377,Smart Watch 1377,Electronics,1045.18
+1378,Saree 1378,Fashion,95881.15
+1379,Badminton Racket 1379,Sports,31583.35
+1380,Lip Balm 1380,Beauty,97389.3
+1381,SQL Handbook 1381,Books,33264.56
+1382,SQL Handbook 1382,Books,50316.28
+1383,Mixer Grinder 1383,Home & Kitchen,58799.12
+1384,Body Lotion 1384,Beauty,58717.55
+1385,Smart Watch 1385,Electronics,16289.06
+1386,Biography 1386,Books,8058.54
+1387,SQL Handbook 1387,Books,95290.27
+1388,Bedsheet 1388,Home & Kitchen,80785.11
+1389,Python Guide 1389,Books,76927.81
+1390,Storage Box 1390,Home & Kitchen,44857.52
+1391,Storage Box 1391,Home & Kitchen,29224.99
+1392,Tennis Balls 1392,Sports,4192.29
+1393,Marketing Book 1393,Books,24062.24
+1394,Cricket Bat 1394,Sports,95808.96
+1395,Gym Gloves 1395,Sports,9920.12
+1396,Smartphone 1396,Electronics,76677.47
+1397,Jeans 1397,Fashion,49990.44
+1398,Lip Balm 1398,Beauty,17136.82
+1399,Sneakers 1399,Fashion,7001.55
+1400,Running Shoes 1400,Sports,35465.17
+1401,Smartphone 1401,Electronics,71122.37
+1402,Sunscreen 1402,Beauty,98616.1
+1403,Backpack 1403,Fashion,65098.15
+1404,Electric Kettle 1404,Home & Kitchen,97172.73
+1405,Face Wash 1405,Beauty,36473.52
+1406,Handbag 1406,Fashion,41020.52
+1407,Football 1407,Sports,44193.6
+1408,Running Shoes 1408,Sports,37492.57
+1409,Marketing Book 1409,Books,50692.05
+1410,T-Shirt 1410,Fashion,62136.25
+1411,Data Analytics Book 1411,Books,74155.05
+1412,Mixer Grinder 1412,Home & Kitchen,15624.31
+1413,Smart Watch 1413,Electronics,37706.0
+1414,Tennis Balls 1414,Sports,85411.15
+1415,Coffee Maker 1415,Home & Kitchen,87440.06
+1416,SQL Handbook 1416,Books,35023.01
+1417,Body Lotion 1417,Beauty,11089.08
+1418,Electric Kettle 1418,Home & Kitchen,91761.54
+1419,Hair Serum 1419,Beauty,20106.21
+1420,Jeans 1420,Fashion,31864.03
+1421,Gym Gloves 1421,Sports,21419.99
+1422,Biography 1422,Books,11608.78
+1423,Face Wash 1423,Beauty,54598.11
+1424,Moisturizer 1424,Beauty,64092.59
+1425,T-Shirt 1425,Fashion,98782.51
+1426,Face Wash 1426,Beauty,93657.67
+1427,Handbag 1427,Fashion,97859.37
+1428,Mixer Grinder 1428,Home & Kitchen,21305.99
+1429,Keyboard 1429,Electronics,27129.84
+1430,Python Guide 1430,Books,8541.41
+1431,Smart Watch 1431,Electronics,40624.83
+1432,Backpack 1432,Fashion,87153.66
+1433,Badminton Racket 1433,Sports,67029.51
+1434,Sneakers 1434,Fashion,83087.8
+1435,Keyboard 1435,Electronics,34332.51
+1436,Sneakers 1436,Fashion,20019.81
+1437,Body Lotion 1437,Beauty,47653.84
+1438,Python Guide 1438,Books,96564.87
+1439,Lip Balm 1439,Beauty,91276.26
+1440,Tennis Balls 1440,Sports,82335.97
+1441,Badminton Racket 1441,Sports,7964.31
+1442,Python Guide 1442,Books,32507.51
+1443,Finance Book 1443,Books,1614.84
+1444,Moisturizer 1444,Beauty,50043.68
+1445,Jeans 1445,Fashion,79242.28
+1446,Marketing Book 1446,Books,26426.71
+1447,Data Analytics Book 1447,Books,98825.21
+1448,Table Lamp 1448,Home & Kitchen,63962.86
+1449,Cricket Bat 1449,Sports,3840.3
+1450,Business Book 1450,Books,42132.58
+1451,Football 1451,Sports,60173.15
+1452,Storage Box 1452,Home & Kitchen,21133.36
+1453,Mixer Grinder 1453,Home & Kitchen,37150.59
+1454,T-Shirt 1454,Fashion,30333.06
+1455,Jeans 1455,Fashion,69990.85
+1456,Biography 1456,Books,41521.56
+1457,Jacket 1457,Fashion,82851.95
+1458,Lip Balm 1458,Beauty,11514.32
+1459,Table Lamp 1459,Home & Kitchen,42951.68
+1460,Cookware Set 1460,Home & Kitchen,54366.74
+1461,Sunscreen 1461,Beauty,84539.14
+1462,Marketing Book 1462,Books,63482.9
+1463,SQL Handbook 1463,Books,99536.25
+1464,Bluetooth Speaker 1464,Electronics,65031.53
+1465,Tennis Balls 1465,Sports,10545.8
+1466,SQL Handbook 1466,Books,63424.81
+1467,Yoga Mat 1467,Sports,66836.47
+1468,Perfume 1468,Beauty,22442.36
+1469,Hair Serum 1469,Beauty,11626.21
+1470,Shampoo 1470,Beauty,35190.25
+1471,Hair Serum 1471,Beauty,90816.76
+1472,Marketing Book 1472,Books,957.99
+1473,Kurta 1473,Fashion,50853.57
+1474,Saree 1474,Fashion,30877.19
+1475,Perfume 1475,Beauty,613.92
+1476,Face Wash 1476,Beauty,1748.9
+1477,Storage Box 1477,Home & Kitchen,84107.81
+1478,Running Shoes 1478,Sports,33640.98
+1479,Tennis Balls 1479,Sports,24333.75
+1480,Perfume 1480,Beauty,61702.54
+1481,Face Wash 1481,Beauty,80171.9
+1482,Tennis Balls 1482,Sports,13060.27
+1483,Marketing Book 1483,Books,97739.09
+1484,Coffee Maker 1484,Home & Kitchen,90435.3
+1485,Football 1485,Sports,43851.68
+1486,Smartphone 1486,Electronics,50523.85
+1487,Marketing Book 1487,Books,84333.47
+1488,Novel 1488,Books,83765.32
+1489,Storage Box 1489,Home & Kitchen,20534.51
+1490,Wireless Earbuds 1490,Electronics,43853.62
+1491,Python Guide 1491,Books,2975.27
+1492,SQL Handbook 1492,Books,57264.02
+1493,Smartphone 1493,Electronics,98343.74
+1494,Finance Book 1494,Books,18817.21
+1495,Business Book 1495,Books,29831.87
+1496,Badminton Racket 1496,Sports,72685.0
+1497,Sunscreen 1497,Beauty,65992.92
+1498,Jeans 1498,Fashion,93509.59
+1499,Data Analytics Book 1499,Books,63909.98
+1500,Cricket Bat 1500,Sports,11269.97
+1501,Cricket Bat 1501,Sports,10885.25
+1502,Saree 1502,Fashion,89480.56
+1503,Bluetooth Speaker 1503,Electronics,49524.66
+1504,Kurta 1504,Fashion,39200.86
+1505,Face Wash 1505,Beauty,41490.76
+1506,Shampoo 1506,Beauty,21186.54
+1507,Hair Serum 1507,Beauty,88992.41
+1508,Biography 1508,Books,80892.2
+1509,Water Bottle 1509,Home & Kitchen,1211.0
+1510,Mixer Grinder 1510,Home & Kitchen,11896.27
+1511,Jacket 1511,Fashion,48493.32
+1512,Yoga Mat 1512,Sports,16006.15
+1513,Novel 1513,Books,92672.0
+1514,Mixer Grinder 1514,Home & Kitchen,53687.23
+1515,Football 1515,Sports,21786.39
+1516,Jeans 1516,Fashion,89876.52
+1517,USB Cable 1517,Electronics,14027.79
+1518,Smartphone 1518,Electronics,26904.54
+1519,Perfume 1519,Beauty,95331.29
+1520,Saree 1520,Fashion,46809.97
+1521,Hair Serum 1521,Beauty,51362.12
+1522,Perfume 1522,Beauty,25158.3
+1523,Water Bottle 1523,Home & Kitchen,96193.76
+1524,Smart Watch 1524,Electronics,16731.18
+1525,Table Lamp 1525,Home & Kitchen,43459.47
+1526,Hair Serum 1526,Beauty,59712.71
+1527,Jacket 1527,Fashion,62365.51
+1528,Tennis Balls 1528,Sports,43044.43
+1529,Running Shoes 1529,Sports,37520.26
+1530,SQL Handbook 1530,Books,45049.46
+1531,Smart Watch 1531,Electronics,58768.55
+1532,Jacket 1532,Fashion,39950.01
+1533,Smartphone 1533,Electronics,80941.24
+1534,Moisturizer 1534,Beauty,35901.9
+1535,Power Bank 1535,Electronics,65763.07
+1536,Sneakers 1536,Fashion,77994.55
+1537,Wireless Earbuds 1537,Electronics,31994.2
+1538,USB Cable 1538,Electronics,21533.49
+1539,Running Shoes 1539,Sports,89893.65
+1540,Cricket Bat 1540,Sports,38680.97
+1541,Badminton Racket 1541,Sports,52819.78
+1542,Smart Watch 1542,Electronics,71682.31
+1543,SQL Handbook 1543,Books,57479.05
+1544,Marketing Book 1544,Books,68275.77
+1545,Lip Balm 1545,Beauty,81375.77
+1546,Bedsheet 1546,Home & Kitchen,5155.04
+1547,Body Lotion 1547,Beauty,4868.83
+1548,Handbag 1548,Fashion,12101.05
+1549,Moisturizer 1549,Beauty,60221.78
+1550,Tennis Balls 1550,Sports,23793.91
+1551,Smart Watch 1551,Electronics,1979.06
+1552,Yoga Mat 1552,Sports,91180.99
+1553,Sneakers 1553,Fashion,84194.96
+1554,Face Wash 1554,Beauty,89602.79
+1555,Yoga Mat 1555,Sports,33870.51
+1556,Bluetooth Speaker 1556,Electronics,47094.36
+1557,Sunscreen 1557,Beauty,27611.42
+1558,Handbag 1558,Fashion,8159.77
+1559,Backpack 1559,Fashion,61308.6
+1560,Sunscreen 1560,Beauty,69705.4
+1561,Body Lotion 1561,Beauty,84896.5
+1562,USB Cable 1562,Electronics,93781.83
+1563,Wireless Earbuds 1563,Electronics,22555.63
+1564,Smartphone 1564,Electronics,10691.54
+1565,Handbag 1565,Fashion,22787.86
+1566,Power Bank 1566,Electronics,72464.97
+1567,T-Shirt 1567,Fashion,93423.21
+1568,Smart Watch 1568,Electronics,88354.27
+1569,Bluetooth Speaker 1569,Electronics,4989.74
+1570,Jeans 1570,Fashion,26518.97
+1571,Marketing Book 1571,Books,27136.22
+1572,Cookware Set 1572,Home & Kitchen,58427.63
+1573,Smartphone 1573,Electronics,32068.4
+1574,Coffee Maker 1574,Home & Kitchen,63761.98
+1575,SQL Handbook 1575,Books,52271.02
+1576,Table Lamp 1576,Home & Kitchen,66193.64
+1577,Jacket 1577,Fashion,77308.87
+1578,Perfume 1578,Beauty,9360.58
+1579,Jeans 1579,Fashion,35429.37
+1580,Bedsheet 1580,Home & Kitchen,69556.51
+1581,Mouse 1581,Electronics,6213.64
+1582,Power Bank 1582,Electronics,46920.41
+1583,Perfume 1583,Beauty,48866.03
+1584,Kurta 1584,Fashion,81435.74
+1585,Running Shoes 1585,Sports,76095.7
+1586,Backpack 1586,Fashion,65596.88
+1587,Cricket Bat 1587,Sports,91428.7
+1588,Storage Box 1588,Home & Kitchen,38679.46
+1589,Perfume 1589,Beauty,78045.1
+1590,Electric Kettle 1590,Home & Kitchen,27927.28
+1591,Water Bottle 1591,Home & Kitchen,95158.16
+1592,Cricket Bat 1592,Sports,14898.52
+1593,Bluetooth Speaker 1593,Electronics,24207.13
+1594,Moisturizer 1594,Beauty,26821.32
+1595,Body Lotion 1595,Beauty,35324.29
+1596,Bluetooth Speaker 1596,Electronics,35570.8
+1597,Cookware Set 1597,Home & Kitchen,39812.41
+1598,Lip Balm 1598,Beauty,5504.08
+1599,Jacket 1599,Fashion,9960.71
+1600,Marketing Book 1600,Books,73252.76
+1601,Perfume 1601,Beauty,29540.79
+1602,Moisturizer 1602,Beauty,59485.11
+1603,Gym Gloves 1603,Sports,51957.12
+1604,Wireless Earbuds 1604,Electronics,64704.22
+1605,Power Bank 1605,Electronics,11694.75
+1606,Smart Watch 1606,Electronics,24027.96
+1607,Cricket Bat 1607,Sports,27689.86
+1608,Tennis Balls 1608,Sports,39311.43
+1609,Power Bank 1609,Electronics,73444.65
+1610,Novel 1610,Books,49617.13
+1611,Bedsheet 1611,Home & Kitchen,34892.78
+1612,Saree 1612,Fashion,73440.45
+1613,Smartphone 1613,Electronics,50422.37
+1614,Biography 1614,Books,73960.26
+1615,Business Book 1615,Books,17188.21
+1616,SQL Handbook 1616,Books,16830.22
+1617,Backpack 1617,Fashion,14354.0
+1618,Mouse 1618,Electronics,42905.67
+1619,Smartphone 1619,Electronics,97441.21
+1620,Smartphone 1620,Electronics,67983.45
+1621,USB Cable 1621,Electronics,96959.24
+1622,Yoga Mat 1622,Sports,48932.07
+1623,Table Lamp 1623,Home & Kitchen,11115.72
+1624,Smart Watch 1624,Electronics,83567.83
+1625,Football 1625,Sports,75547.25
+1626,Bluetooth Speaker 1626,Electronics,30598.31
+1627,Finance Book 1627,Books,45370.11
+1628,Finance Book 1628,Books,98980.35
+1629,Backpack 1629,Fashion,25501.98
+1630,Face Wash 1630,Beauty,82808.4
+1631,Jacket 1631,Fashion,89157.97
+1632,Biography 1632,Books,11452.55
+1633,Data Analytics Book 1633,Books,14959.46
+1634,Perfume 1634,Beauty,66003.82
+1635,Storage Box 1635,Home & Kitchen,49882.66
+1636,Coffee Maker 1636,Home & Kitchen,36069.11
+1637,SQL Handbook 1637,Books,19544.44
+1638,Shampoo 1638,Beauty,96551.22
+1639,Biography 1639,Books,98734.7
+1640,Football 1640,Sports,26676.87
+1641,Finance Book 1641,Books,88820.89
+1642,Hair Serum 1642,Beauty,94536.6
+1643,Saree 1643,Fashion,19218.15
+1644,Running Shoes 1644,Sports,83449.32
+1645,Keyboard 1645,Electronics,79573.22
+1646,Running Shoes 1646,Sports,28982.17
+1647,Mouse 1647,Electronics,92736.86
+1648,Table Lamp 1648,Home & Kitchen,68155.12
+1649,Dumbbells 1649,Sports,62453.75
+1650,Python Guide 1650,Books,30502.83
+1651,Jeans 1651,Fashion,80017.55
+1652,Mouse 1652,Electronics,4286.12
+1653,Jeans 1653,Fashion,5507.69
+1654,T-Shirt 1654,Fashion,43145.22
+1655,Data Analytics Book 1655,Books,5179.22
+1656,Storage Box 1656,Home & Kitchen,87895.47
+1657,Football 1657,Sports,95376.79
+1658,Novel 1658,Books,14434.9
+1659,Business Book 1659,Books,43317.67
+1660,Smart Watch 1660,Electronics,22041.0
+1661,Lip Balm 1661,Beauty,25022.1
+1662,Marketing Book 1662,Books,42370.82
+1663,Smart Watch 1663,Electronics,92034.37
+1664,Dumbbells 1664,Sports,17494.54
+1665,Lip Balm 1665,Beauty,80476.15
+1666,Bedsheet 1666,Home & Kitchen,25151.04
+1667,Perfume 1667,Beauty,30245.01
+1668,Smart Watch 1668,Electronics,56752.18
+1669,Biography 1669,Books,54672.9
+1670,Hair Serum 1670,Beauty,9784.02
+1671,Gym Gloves 1671,Sports,69473.51
+1672,Running Shoes 1672,Sports,46943.21
+1673,Body Lotion 1673,Beauty,42165.47
+1674,Body Lotion 1674,Beauty,2960.76
+1675,Yoga Mat 1675,Sports,95756.68
+1676,Shampoo 1676,Beauty,75633.47
+1677,Dumbbells 1677,Sports,78704.88
+1678,Running Shoes 1678,Sports,12901.03
+1679,Dumbbells 1679,Sports,5541.9
+1680,Moisturizer 1680,Beauty,40412.62
+1681,Mouse 1681,Electronics,80785.61
+1682,Gym Gloves 1682,Sports,83950.96
+1683,Wireless Earbuds 1683,Electronics,27162.45
+1684,SQL Handbook 1684,Books,33480.65
+1685,Smart Watch 1685,Electronics,56630.25
+1686,Finance Book 1686,Books,86457.55
+1687,Wireless Earbuds 1687,Electronics,70215.95
+1688,Football 1688,Sports,56291.52
+1689,Moisturizer 1689,Beauty,22508.65
+1690,Python Guide 1690,Books,30228.04
+1691,T-Shirt 1691,Fashion,80599.56
+1692,Badminton Racket 1692,Sports,11646.94
+1693,Smartphone 1693,Electronics,60457.31
+1694,Bluetooth Speaker 1694,Electronics,24870.17
+1695,Mouse 1695,Electronics,2659.71
+1696,Gym Gloves 1696,Sports,39192.25
+1697,Smart Watch 1697,Electronics,40573.82
+1698,Bedsheet 1698,Home & Kitchen,84202.74
+1699,Dumbbells 1699,Sports,82203.31
+1700,Biography 1700,Books,85958.53
+1701,Cricket Bat 1701,Sports,43347.9
+1702,Data Analytics Book 1702,Books,18642.82
+1703,Business Book 1703,Books,17242.39
+1704,Business Book 1704,Books,47719.61
+1705,Saree 1705,Fashion,66819.05
+1706,Gym Gloves 1706,Sports,36859.47
+1707,Handbag 1707,Fashion,38703.91
+1708,Mouse 1708,Electronics,41805.27
+1709,Moisturizer 1709,Beauty,2990.47
+1710,Shampoo 1710,Beauty,56507.07
+1711,Smart Watch 1711,Electronics,3600.54
+1712,Biography 1712,Books,4453.65
+1713,Sneakers 1713,Fashion,46896.13
+1714,Biography 1714,Books,27834.02
+1715,Storage Box 1715,Home & Kitchen,50162.71
+1716,Badminton Racket 1716,Sports,35012.64
+1717,Marketing Book 1717,Books,51400.91
+1718,Cookware Set 1718,Home & Kitchen,35315.33
+1719,Finance Book 1719,Books,46055.28
+1720,Water Bottle 1720,Home & Kitchen,78538.1
+1721,Novel 1721,Books,92362.0
+1722,Mouse 1722,Electronics,37775.97
+1723,Moisturizer 1723,Beauty,57687.69
+1724,Dumbbells 1724,Sports,13115.31
+1725,Jacket 1725,Fashion,58531.42
+1726,Shampoo 1726,Beauty,4682.93
+1727,Python Guide 1727,Books,23323.09
+1728,SQL Handbook 1728,Books,50042.5
+1729,Biography 1729,Books,32500.21
+1730,Bedsheet 1730,Home & Kitchen,10721.09
+1731,Coffee Maker 1731,Home & Kitchen,75629.22
+1732,Shampoo 1732,Beauty,6379.28
+1733,Jeans 1733,Fashion,3933.34
+1734,SQL Handbook 1734,Books,44263.54
+1735,T-Shirt 1735,Fashion,92369.37
+1736,Jeans 1736,Fashion,69931.83
+1737,Moisturizer 1737,Beauty,98888.31
+1738,Badminton Racket 1738,Sports,19731.65
+1739,Body Lotion 1739,Beauty,67948.13
+1740,Bedsheet 1740,Home & Kitchen,74265.96
+1741,Perfume 1741,Beauty,8783.63
+1742,Bluetooth Speaker 1742,Electronics,20512.25
+1743,Mixer Grinder 1743,Home & Kitchen,36083.19
+1744,Shampoo 1744,Beauty,34201.99
+1745,Biography 1745,Books,19174.66
+1746,Table Lamp 1746,Home & Kitchen,50183.86
+1747,Sneakers 1747,Fashion,80198.27
+1748,Hair Serum 1748,Beauty,62620.98
+1749,Bluetooth Speaker 1749,Electronics,12892.8
+1750,Dumbbells 1750,Sports,10270.12
+1751,Perfume 1751,Beauty,5336.61
+1752,Running Shoes 1752,Sports,2448.74
+1753,Saree 1753,Fashion,39163.56
+1754,Jeans 1754,Fashion,87268.77
+1755,Water Bottle 1755,Home & Kitchen,7661.76
+1756,Badminton Racket 1756,Sports,85347.88
+1757,Dumbbells 1757,Sports,40041.12
+1758,Bluetooth Speaker 1758,Electronics,58359.7
+1759,T-Shirt 1759,Fashion,3420.02
+1760,Sunscreen 1760,Beauty,20210.02
+1761,Smartphone 1761,Electronics,20581.48
+1762,Finance Book 1762,Books,92431.59
+1763,Data Analytics Book 1763,Books,23713.6
+1764,Wireless Earbuds 1764,Electronics,34714.39
+1765,Keyboard 1765,Electronics,59894.13
+1766,Cricket Bat 1766,Sports,88773.36
+1767,Moisturizer 1767,Beauty,27195.74
+1768,Bluetooth Speaker 1768,Electronics,3751.89
+1769,Badminton Racket 1769,Sports,65102.63
+1770,Body Lotion 1770,Beauty,30480.15
+1771,Mixer Grinder 1771,Home & Kitchen,93137.4
+1772,Power Bank 1772,Electronics,53510.75
+1773,Face Wash 1773,Beauty,55338.1
+1774,Keyboard 1774,Electronics,76614.02
+1775,Python Guide 1775,Books,43084.92
+1776,Moisturizer 1776,Beauty,11734.2
+1777,USB Cable 1777,Electronics,35307.55
+1778,Handbag 1778,Fashion,91822.25
+1779,Bedsheet 1779,Home & Kitchen,9379.68
+1780,Power Bank 1780,Electronics,41422.94
+1781,Yoga Mat 1781,Sports,99094.69
+1782,Power Bank 1782,Electronics,81298.66
+1783,Wireless Earbuds 1783,Electronics,12845.25
+1784,Water Bottle 1784,Home & Kitchen,4562.2
+1785,Kurta 1785,Fashion,99808.26
+1786,Coffee Maker 1786,Home & Kitchen,47973.4
+1787,Bluetooth Speaker 1787,Electronics,7821.51
+1788,Badminton Racket 1788,Sports,49592.94
+1789,Finance Book 1789,Books,89783.49
+1790,Table Lamp 1790,Home & Kitchen,71369.76
+1791,Saree 1791,Fashion,86922.3
+1792,Water Bottle 1792,Home & Kitchen,32021.12
+1793,Cricket Bat 1793,Sports,5587.95
+1794,Body Lotion 1794,Beauty,28121.43
+1795,Cookware Set 1795,Home & Kitchen,84173.25
+1796,Badminton Racket 1796,Sports,30631.93
+1797,Badminton Racket 1797,Sports,12449.26
+1798,Python Guide 1798,Books,3778.59
+1799,Table Lamp 1799,Home & Kitchen,65059.83
+1800,Shampoo 1800,Beauty,2323.71
+1801,Smart Watch 1801,Electronics,27940.14
+1802,Sunscreen 1802,Beauty,82751.45
+1803,Wireless Earbuds 1803,Electronics,28052.43
+1804,Tennis Balls 1804,Sports,49635.68
+1805,Hair Serum 1805,Beauty,44512.17
+1806,Bedsheet 1806,Home & Kitchen,38055.83
+1807,Marketing Book 1807,Books,53341.7
+1808,Novel 1808,Books,3323.35
+1809,T-Shirt 1809,Fashion,91022.39
+1810,Saree 1810,Fashion,81061.32
+1811,Badminton Racket 1811,Sports,75772.77
+1812,Handbag 1812,Fashion,86600.08
+1813,Data Analytics Book 1813,Books,80777.19
+1814,Tennis Balls 1814,Sports,95255.86
+1815,Novel 1815,Books,85878.71
+1816,Gym Gloves 1816,Sports,42497.74
+1817,Novel 1817,Books,16421.38
+1818,Body Lotion 1818,Beauty,74613.26
+1819,Cookware Set 1819,Home & Kitchen,90788.72
+1820,Saree 1820,Fashion,8735.58
+1821,Water Bottle 1821,Home & Kitchen,33884.73
+1822,Face Wash 1822,Beauty,61630.62
+1823,Saree 1823,Fashion,65990.15
+1824,Data Analytics Book 1824,Books,12604.78
+1825,Running Shoes 1825,Sports,83631.78
+1826,Table Lamp 1826,Home & Kitchen,46378.88
+1827,Face Wash 1827,Beauty,46749.66
+1828,Backpack 1828,Fashion,63845.76
+1829,Badminton Racket 1829,Sports,40978.37
+1830,Cricket Bat 1830,Sports,27788.28
+1831,Running Shoes 1831,Sports,95337.67
+1832,Moisturizer 1832,Beauty,25948.09
+1833,Saree 1833,Fashion,86930.73
+1834,Bedsheet 1834,Home & Kitchen,63106.75
+1835,Mixer Grinder 1835,Home & Kitchen,23419.71
+1836,Data Analytics Book 1836,Books,18587.7
+1837,Gym Gloves 1837,Sports,58072.09
+1838,Power Bank 1838,Electronics,6268.12
+1839,Novel 1839,Books,97532.18
+1840,USB Cable 1840,Electronics,54135.05
+1841,Power Bank 1841,Electronics,35102.02
+1842,Mouse 1842,Electronics,11494.62
+1843,Power Bank 1843,Electronics,20562.38
+1844,Running Shoes 1844,Sports,82946.96
+1845,Marketing Book 1845,Books,7324.04
+1846,Sunscreen 1846,Beauty,14478.33
+1847,Jacket 1847,Fashion,33630.58
+1848,Lip Balm 1848,Beauty,47173.37
+1849,T-Shirt 1849,Fashion,16198.22
+1850,Smart Watch 1850,Electronics,93043.79
+1851,Yoga Mat 1851,Sports,10800.96
+1852,Storage Box 1852,Home & Kitchen,51176.46
+1853,Finance Book 1853,Books,94005.0
+1854,Face Wash 1854,Beauty,65773.52
+1855,Coffee Maker 1855,Home & Kitchen,76307.66
+1856,SQL Handbook 1856,Books,95525.9
+1857,Coffee Maker 1857,Home & Kitchen,53987.94
+1858,Wireless Earbuds 1858,Electronics,60787.78
+1859,Biography 1859,Books,31829.55
+1860,Water Bottle 1860,Home & Kitchen,91123.74
+1861,Kurta 1861,Fashion,79939.79
+1862,Kurta 1862,Fashion,45689.95
+1863,SQL Handbook 1863,Books,69367.7
+1864,Hair Serum 1864,Beauty,36314.74
+1865,Jeans 1865,Fashion,91479.62
+1866,Biography 1866,Books,60599.81
+1867,Hair Serum 1867,Beauty,23129.38
+1868,Bedsheet 1868,Home & Kitchen,77688.54
+1869,Moisturizer 1869,Beauty,60632.46
+1870,Jacket 1870,Fashion,31520.67
+1871,Keyboard 1871,Electronics,42217.05
+1872,Table Lamp 1872,Home & Kitchen,63335.45
+1873,Cookware Set 1873,Home & Kitchen,87664.29
+1874,Smartphone 1874,Electronics,12253.73
+1875,Backpack 1875,Fashion,74335.83
+1876,Mixer Grinder 1876,Home & Kitchen,83418.08
+1877,Smartphone 1877,Electronics,98994.36
+1878,Coffee Maker 1878,Home & Kitchen,90444.19
+1879,Sneakers 1879,Fashion,40350.29
+1880,Badminton Racket 1880,Sports,71254.95
+1881,USB Cable 1881,Electronics,89762.15
+1882,Jeans 1882,Fashion,99413.58
+1883,Bluetooth Speaker 1883,Electronics,73926.09
+1884,Backpack 1884,Fashion,91084.29
+1885,Biography 1885,Books,74120.61
+1886,Sunscreen 1886,Beauty,75813.47
+1887,Python Guide 1887,Books,73396.62
+1888,SQL Handbook 1888,Books,15394.19
+1889,USB Cable 1889,Electronics,67454.93
+1890,Hair Serum 1890,Beauty,32178.6
+1891,Water Bottle 1891,Home & Kitchen,94486.86
+1892,Power Bank 1892,Electronics,29874.38
+1893,T-Shirt 1893,Fashion,56499.31
+1894,Tennis Balls 1894,Sports,28667.67
+1895,Lip Balm 1895,Beauty,75777.56
+1896,Mixer Grinder 1896,Home & Kitchen,81434.92
+1897,Business Book 1897,Books,43166.66
+1898,Jacket 1898,Fashion,10125.76
+1899,Sneakers 1899,Fashion,12030.4
+1900,Backpack 1900,Fashion,44002.89
+1901,Water Bottle 1901,Home & Kitchen,93931.65
+1902,Jeans 1902,Fashion,92465.68
+1903,Novel 1903,Books,14271.11
+1904,Cookware Set 1904,Home & Kitchen,2928.54
+1905,Power Bank 1905,Electronics,864.18
+1906,USB Cable 1906,Electronics,20472.47
+1907,Tennis Balls 1907,Sports,73261.52
+1908,Football 1908,Sports,83136.57
+1909,Jeans 1909,Fashion,71680.84
+1910,Mouse 1910,Electronics,88909.2
+1911,Sunscreen 1911,Beauty,8868.01
+1912,Water Bottle 1912,Home & Kitchen,73216.05
+1913,USB Cable 1913,Electronics,80402.38
+1914,Business Book 1914,Books,72789.69
+1915,Sneakers 1915,Fashion,50803.61
+1916,Backpack 1916,Fashion,63135.27
+1917,Cricket Bat 1917,Sports,70738.62
+1918,T-Shirt 1918,Fashion,43450.09
+1919,Finance Book 1919,Books,19200.79
+1920,Yoga Mat 1920,Sports,94927.42
+1921,Data Analytics Book 1921,Books,24741.19
+1922,Tennis Balls 1922,Sports,87236.06
+1923,Bedsheet 1923,Home & Kitchen,26674.55
+1924,Table Lamp 1924,Home & Kitchen,81423.11
+1925,Biography 1925,Books,28402.45
+1926,Electric Kettle 1926,Home & Kitchen,95092.11
+1927,Business Book 1927,Books,518.13
+1928,Mouse 1928,Electronics,55861.17
+1929,Cookware Set 1929,Home & Kitchen,4072.51
+1930,Novel 1930,Books,61414.15
+1931,Business Book 1931,Books,63842.92
+1932,Moisturizer 1932,Beauty,87812.39
+1933,Water Bottle 1933,Home & Kitchen,66862.99
+1934,Hair Serum 1934,Beauty,59863.64
+1935,Gym Gloves 1935,Sports,29681.64
+1936,Electric Kettle 1936,Home & Kitchen,96298.31
+1937,Handbag 1937,Fashion,96941.34
+1938,Kurta 1938,Fashion,66308.34
+1939,Smartphone 1939,Electronics,46579.65
+1940,Jeans 1940,Fashion,34887.34
+1941,Moisturizer 1941,Beauty,77412.44
+1942,Body Lotion 1942,Beauty,60184.67
+1943,Business Book 1943,Books,3089.46
+1944,Kurta 1944,Fashion,89002.1
+1945,Face Wash 1945,Beauty,56312.28
+1946,Saree 1946,Fashion,67562.91
+1947,Hair Serum 1947,Beauty,80940.25
+1948,Hair Serum 1948,Beauty,26216.8
+1949,Smart Watch 1949,Electronics,48652.44
+1950,Storage Box 1950,Home & Kitchen,63698.37
+1951,Smart Watch 1951,Electronics,44873.11
+1952,Cookware Set 1952,Home & Kitchen,53693.11
+1953,SQL Handbook 1953,Books,94797.2
+1954,Running Shoes 1954,Sports,13094.69
+1955,Yoga Mat 1955,Sports,95036.8
+1956,Keyboard 1956,Electronics,9206.22
+1957,Finance Book 1957,Books,91239.41
+1958,Cricket Bat 1958,Sports,65561.17
+1959,Badminton Racket 1959,Sports,36336.36
+1960,Cookware Set 1960,Home & Kitchen,83846.28
+1961,Perfume 1961,Beauty,29159.71
+1962,Storage Box 1962,Home & Kitchen,33282.91
+1963,Bedsheet 1963,Home & Kitchen,94012.38
+1964,Wireless Earbuds 1964,Electronics,75560.16
+1965,Cricket Bat 1965,Sports,50248.63
+1966,Face Wash 1966,Beauty,15862.16
+1967,T-Shirt 1967,Fashion,23153.52
+1968,Business Book 1968,Books,3570.05
+1969,SQL Handbook 1969,Books,81335.99
+1970,Hair Serum 1970,Beauty,13292.08
+1971,Novel 1971,Books,86224.97
+1972,Bluetooth Speaker 1972,Electronics,50549.06
+1973,Marketing Book 1973,Books,2210.39
+1974,Python Guide 1974,Books,9735.56
+1975,Tennis Balls 1975,Sports,19588.55
+1976,Dumbbells 1976,Sports,78519.22
+1977,Face Wash 1977,Beauty,30353.97
+1978,Perfume 1978,Beauty,10146.99
+1979,Biography 1979,Books,37781.76
+1980,Shampoo 1980,Beauty,22379.85
+1981,Sunscreen 1981,Beauty,48437.28
+1982,Business Book 1982,Books,38363.35
+1983,Hair Serum 1983,Beauty,95154.45
+1984,Cricket Bat 1984,Sports,45335.58
+1985,Yoga Mat 1985,Sports,39854.39
+1986,Table Lamp 1986,Home & Kitchen,37107.2
+1987,Cricket Bat 1987,Sports,64352.29
+1988,Sneakers 1988,Fashion,81005.14
+1989,Bluetooth Speaker 1989,Electronics,56175.37
+1990,Table Lamp 1990,Home & Kitchen,59421.27
+1991,Smartphone 1991,Electronics,40437.87
+1992,Perfume 1992,Beauty,6080.51
+1993,Sunscreen 1993,Beauty,41302.49
+1994,Finance Book 1994,Books,83464.48
+1995,USB Cable 1995,Electronics,68960.96
+1996,Tennis Balls 1996,Sports,87167.51
+1997,Kurta 1997,Fashion,75551.79
+1998,Body Lotion 1998,Beauty,31438.01
+1999,Business Book 1999,Books,32318.43
+2000,Biography 2000,Books,51539.23
